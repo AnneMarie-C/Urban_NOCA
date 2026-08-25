@@ -1,0 +1,510 @@
+﻿Date,Time,Site,Tracker_ID,NOCA_ID,Band,Colour_L,Colour_R,Sex,GPS_ID,Lat,Lon,Signal,Gain,Angle,Direction,Receiver,Temperature,Wind,Cloud,Precipitations,Snow_depth,Snow_hardness,Snow_water,Comments
+11-13-2024,13:08,1,AMC,636,2991-46016,White/White,Metal/Yellow,F,11-13-24 NOCA636,45.43056,-73.93851,NA,NA,NA,NA,NEW,5,10,0,0,0,0,0,Flew towards the feeders.
+11-15-2024,10:33,2,AM,641,2991-46022,Yellow/Black,Metal/Green,M,NA,45.4292672,-73.9391225,NA,NA,NA,NA,NEW,4,9,10,0,0,0,0,"Released by Ana, point taken with phone."
+11-15-2024,10:33,2,AM,645,2651-73169,Yellow/Green,Metal/Green,M,NA,45.4292672,-73.9391225,NA,NA,NA,NA,NEW,4,9,10,0,0,0,0,"Released by Ana, point taken with phone."
+11-15-2024,12:15,1,LF,636,2991-46016,White/White,Metal/Yellow,F,11-15-24 NOCA636,45.42965,-73.94071,226,20,260,straight,NEW,6,9,20,0,0,0,0,In a tree.
+11-23-2024,8:30,2,LF,641,2991-46022,Yellow/Black,Metal/Green,M,11-23-24 NOCA641,45.43098,-73.93835,207,20,15,UP,NEW,5,9,100,0,0,0,0,Saw the bird in a tree
+11-23-2024,8:45,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,11-23-24 NOCA645,45.43069,-73.9388,202,30,274,straight,NEW,5,9,100,0,0,0,0,
+11-23-2024,9:00,1,LF,636,2991-46016,White/White,Metal/Yellow,F,11-23-24 NOCA636,45.4296,-73.94056,250,10,250,down,NEW,5,7,100,0,0,0,0,"No bird, only the antenna. No trace of the bird"
+11-26-2024,10:04,2,AMC,641,2991-46022,Yellow/Black,Metal/Green,M,11-29-24 NOCA641-627,45.4295,-73.93832,230,20,NA,NA,NEW,1,14,90,0,0,0,0,"Forgot to take the antennas' bearing. Birds were together (641 and 627), in the pines near the E nets."
+12-01-2024,11:20,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,12-01-24 NOCA645,45.43132,-73.93851,250,20,50,straight,NEW,-1,19,60,0,0,0,0,
+12-06-2024,14:25,2,ET,645,2651-73169,Yellow/Green,Metal/Green,M,12-06-24 NOCA645,45.43098,-73.93837,235,30,1,straight,NEW,-6,24,20,0,0,0,0,Possibly saw the bird in a very shrubby area within the branches. Did not note the snow cover while there but I would estimate that there were 5 to 10 cm of hard snow
+12-08-2024,13:05,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,12-08-24 NOCA645,45.43206,-73.83896,232,20,162,straight,NEW,3,13,80,0,14,3,4,Saw it in a bush in wooble alley
+12-13-2024,10:20,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,12-13-24 NOCA645,45.43003,-73.93849,222,20,205,straight,NEW,-6,18,10,0,9,1,1,Saw it in the birdfeeder
+12-13-2024,10:30,2,LF,641,2991-46022,Yellow/Black,Metal/Green,M,12-13-24 NOCA641,45.42905,-73.9381,220,20,230,UP,NEW,-6,20,5,0,9,1,1,In trees
+12-18-2024,8:59,2,AMC,636b,2991-46024,Yellow/White,Metal/Green,M,NA,45.42928,-73.93911,NA,NA,NA,NA,NEW,1,12,100,0,NA,NA,NA,"Took GPS point with phone and forgot snow measurements. Bird flew well in bushed at the end of D nets, stayed there for a while before moving deeper in vegetation."
+12-18-2024,9:06,1,AMC,625b,2991-46026,Green/Green,Metal/Green,M,NA,45.43057,-73.93851,NA,NA,NA,NA,NEW,1,12,100,0,NA,NA,NA,"Took GPS point with phone, bird flew in trees just before the feeders."
+12-22-2024,8:40,2,LF,641,2991-46022,Yellow/Black,Metal/Green,M,12-22-24 NOCA641,45.42997,-73.93848,222,20,218,straight,NEW,-16,20,5,0,10,3,2,at the birdfeeder
+12-22-2024,8:45,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,12-22-24 NOCA625,45.42998,-73.93848,233,20,218,straight,NEW,-16,20,5,0,10,3,2,at the bird feeder
+12-22-2024,9:00,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,12-22-24 NOCA645,45.43048,-73.93918,217,20,214,straight,NEW,-16,20,0,0,10,3,2,
+01-02-2025,9:50,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,01-02-25 NOCA645,45.42904,-73.938,211,30,127,UP,NEW,-1,28,100,0,5,3,1,
+01-02-2025,10:20,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,01-02-25 NOCA625b,45.43024,-73.93998,223,20,110,straight,NEW,-1,36,100,0,5,3,1,
+01-02-2025,10:40,2,LF,641,2991-46022,Yellow/Black,Metal/Green,M,01-02-25 NOCA641,45.43029,-73.93999,199,30,4,UP,NEW,-1,30,100,0,5,3,1,
+01-07-2025,9:15,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,01-07-25 NOCA625b,45.42982,-73.93848,209,30,195,straight,NEW,-9,22,100,0,7,1,1,Saw it with more cardinals including 627 at a birdfeeder
+01-07-2025,9:30,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,01-07-25 NOCA645,45.43024,-73.93782,249,20,200,straight,NEW,-8,22,100,0,7,1,1,Saw it in branches
+01-07-2025,9:40,2,LF,641,2991-46022,Yellow/Black,Metal/Green,M,01-07-25 NOCA641,45.42848,-73.93703,219,20,236,UP,NEW,-8,22,100,0,7,1,1,
+01-14-2025,10:30,2,LF,636b,2991-46024,Yellow/White,Metal/Green,M,01-14-25 NOCA636b,45.43579,-73.94461,211,30,127,UP,NEW,-5,20,90,0,17,1,1,In a trees next to a field with 641
+01-14-2025,10:30,2,LF,641,2991-46022,Yellow/Black,Metal/Green,M,01-14-25 NOCA641,45.43579,-73.94461,200,30,127,UP,NEW,-5,20,90,0,17,1,1,In a trees next to a field with 636
+01-14-2025,11:40,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,01-14-25 NOCA6345,45.42871,-73.93086,216,20,86,UP,NEW,-4,24,100,0,17,1,1,
+02-08-2025,8:30,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,02-08-25 NOCA645,45.43122,-73.93854,210,30,146,UP,NEW,-11,9,0,0,27,1,2,
+02-11-2025,9:40,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,02-11-25 NOCA625b,45.4217,-73.93443,145,50,270,UP,NEW,-7,19,100,0,25,1,1,
+02-11-2025,10:45,2,LF,636b,2991-46024,Yellow/White,Metal/Green,M,02-11-25 NOCA636b,45.42392,-73.9418,234,20,133,straight,NEW,-6,20,100,0,25,1,1,
+02-11-2025,12:30,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,02-11-25 NOCA645,45.43015,-73.9378,208,30,220,straight,NEW,-5,24,40,0,25,1,1,Saw it fly away
+02-22-2025,8:35,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,02-22-25 NOCA625b,45.42359,-73.93607,212,30,96,straight,NEW,-14,11,0,0,46,1,1,
+02-22-2025,10:00,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,02-22-25 NOCA645,45.43009,-73.93855,207,30,222,straight,NEW,-11,9,0,0,46,1,1,
+02-25-25,9:45,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,02-25-25 NOCA625b,45.42357,-73.93665,160,50,151,straight,NEW,4,7,100,0,36,1,4,moving a lot
+03-06-2025,8:55,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,03-06-25 NOCA625b,45.42168,-73.93428,148,50,261,UP,NEW,3,22,100,0,29,2,5,backyard with no other access
+03-06-2025,11:00,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,03-06-25 NOCA645,45.4304,-73.93922,220,20,238,straight,NEW,4,17,100,0,29,2,5,saw it in a tree witch other birds
+03-13-2025,9:00,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,03-13-25 NOCA625b,45.42361,-73.93592,211,30,98,straight,NEW,-9,9,30,0,24,4,2,
+03-13-2025,10:30,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,03-13-25 NOCA645,45.42995,-73.93848,231,20,94,straight,NEW,-4,12,20,0,24,4,2,at the birdfeeders
+03-18-2025,9:20,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,03-18-25 NOCA625b,45.42559,-73.93602,235,20,270,UP,NEW,-3,4,0,0,7,4,4,"saw it fly in a tree, might be hurt at the wing"
+03-18-2025,10:30,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,03-18-25 NOCA645,45.43059,-73.93869,217,30,263,UP,NEW,1,7,0,0,7,4,4,saw it fly in a tree
+03-25-2025,9:00,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,03-25-25 NOCA625b,45.43087,-73.93834,201,30,125,straight,NEW,2,15,95,0,5,2,2,saw it fly away
+03-25-2025,9:30,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,03-25-25 NOCA645,45.4304,-73.93798,223,30,135,UP,NEW,2,17,100,0,5,2,2,
+04-05-2025,8:30,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,04-05-25 NOCA645,45.43089,-73.9391,197,30,209,UP,NEW,2,13,100,0,0,0,0,went around. could not get closer because of water
+04-05-2025,8:45,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,04-05-25 NOCA625b,45.43151,-73.93867,226,20,269,UP,NEW,2,13,100,0,0,0,0,
+04-08-2025,8:30,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,04-08-25 NOCA645,45.43163,-73.93872,244,20,43,UP,NEW,-1,26,100,0,6,1,3,saw it with 625
+04-08-2025,8:45,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,04-08-25 NOCA625b,45.43161,-73.93872,225,20,43,UP,NEW,-1,26,100,0,6,1,3,saw it with 645
+04-13-2025,9:45,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,04-13-25 NOCA625b,45.42985,-73.93959,201,40,223,UP,NEW,6,11,98,0,0,0,0,saw it fly away
+04-13-2025,10:30,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,04-13-25 NOCA645,45.43036,-73.93975,234,30,232,UP,NEW,7,19,85,0,0,0,0,
+04-17-2025,8:50,1,LF,625b,2991-46026,Green/Green,Metal/Green,M,04-17-25 NOCA625b,45.43154,-73.9387,232,20,60,straight,NEW,1,19,0,0,0,0,0,
+04-17-2025,9:35,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,04-17-25 NOCA645,45.43005,-73.93933,215,30,221,straight,NEW,1,26,0,0,0,0,0,saw it fly in a tree
+04-19-2025,13:35,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,04-19-25 NOCA645,45.43166,-73.93874,225,20,16,straight,NEW,19,17,100,0,0,0,0,
+04-19-2025,13:55,2,LF,641,2991-46022,Yellow/Black,Metal/Green,M,04-19-25 NOCA641,45.43018,-73.93999,143,50,328,UP,NEW,19,17,100,0,0,0,0,
+04-22-2025,13:00,2,LF,645,2651-73169,Yellow/Green,Metal/Green,M,04-22-25 NOCA645,45.43082,-73.9386,214,30,163,straight,NEW,10,20,100,0,0,0,0,
+04-22-2025,13:20,2,LF,641,2991-46022,Yellow/Black,Metal/Green,M,04-22-25 NOCA641,45.43026,-73.93996,151,50,257,UP,NEW,11,22,100,0,0,0,0,could not get closer because of water
+10-14-2024,9:39,3,AMC,611,2651-73175,Blue/Red,Metal/Yellow,F,NA,45.4109787,-73.9305411,NA,NA,NA,NA,NEW,6,23,100,1,0,0,0,Bird flew towards the pine on the front lawn of 92 St-Andrew's street. Seemed to fly correctly and was vigorous when released.
+10-16-2024,10:14,3,AMC,611,2651-73175,Blue/Red,Metal/Yellow,F,10-16-24 NOCA 611,45.40971,-73.9259,218,30,189,STRAIGHT,NEW,7,17,90,0,0,0,0,"Bird was located between yards, around what looked to be a very ""bird-friendly"" house. Signal was moving so that's a good sign."
+10-18-2024,9:19,3,LF,611,2651-73175,Blue/Red,Metal/Yellow,F,10-18-24 NOCA611,45.40961,-73.92002,199,30,180,STRAIGHT,NEW,6,6,0,0,0,0,0,Bird was located in a bush section in the park Fritz.
+10-21-2024,9:35,4,AMC,614,2651-73185,Blue/Green,Metal/Yellow,F,10-21-24 NOCA 614,45.41236,-73.92892,NA,NA,NA,NA,NEW,15,20,10,0,0,0,0,Flew towards the backyard of house 107.
+10-22-2024,9:19,4,AMC,614,2651-73185,Blue/Green,Metal/Yellow,F,10-22-24 NOCA 614,45.4106,-73.93065,207,30,300,UP,NEW,12,10,20,0,0,0,0,Bird most likely in the cedar trees between house 86 and 88 on St-Andrews.
+10-23-2024,11:47,4,AMC,608,2651-73186,Blue/Black,Metal/Yellow,F,10-23-24 NOCA 608,45.41225,-73.92889,NA,NA,NA,NA,NEW,22,24,100,0,0,0,0,Bird also flew towards the backyard of house 107.
+10-24-2024,10:17,4,AMC,609,2651-731102,Blue/Blue,Metal/Green,M,10-24-24 NOCA 609,45.41236,-73.92892,NA,NA,NA,NA,NEW,9,8,0,0,0,0,0,Bird flew onto pine tree of house 102.
+10-24-2024,14:25,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,10-24-24 NOCA608,45.41086,-73.93038,191,30,112,UP,NEW,12,7,0,0,0,0,0,Bird was in a tree in the backyard of 87 St-Andrew's street
+10-24-2024,15:30,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,10-24-24 NOCA614,45.40733,-73.93259,209,30,309,UP,NEW,12,8,5,0,0,0,0,"Birds was between house 42 and 44 on Oxford, close to a trail"
+10-24-2024,16:00,4,LF,609,2651-731102,Blue/Blue,Metal/Green,M,10-24-24 NOCA609,45.4109,-73.92612,231,20,103,STRAIGHT,NEW,12,8,2,0,0,0,0,Bird was most likely in a bush in front of the house 91 on Devon St
+10-25-2024,8:55,3,AMC,617,2991-45868,Red/Yellow,Metal/Yellow,F,10-25-24 NOCA 617,45.111,-73.93052,NA,NA,NA,NA,NEW,4,4,0,0,0,0,0,Bird flew towards the right in the backyard of the house besides Richards'
+10-25-2024,10:21,3,AMC,618,2651-73190,Blue/Yellow,Metal/Green,M,10-25-24 NOCA 618,45.411,-73.93049,NA,NA,NA,NA,NEW,6,4,0,0,0,0,0,Bird flew on the left in a tall pine tree.
+10-26-2024,8:20,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,10-26-24 NOCA608,45.41061,-73.93069,231,20,278,STRAIGHT,NEW,9,22,40,0,0,0,0,Probably in the bushes between the house 88 and 86 on St-Andrew's street
+10-26-2024,8:40,3,LF,617,2991-45868,Red/Yellow,Metal/Yellow,F,10-26-24 NOCA617,45.40898,-73.93304,229,30,120,UP,NEW,8,22,30,0,0,0,0,Between house 70 and 64 on Oxford street
+10-26-2024,8:50,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,10-26-24 NOCA614,45.4077,-73.93326,250,10,116,STRAIGHT,NEW,8,22,20,0,0,0,0,In a bush in the backyard of 44 Oxford street on the other side of a fence
+10-26-2024,10:20,3,LF,618,2651-73190,Blue/Yellow,Metal/Green,M,10-26-24 NOCA618,45.40833,-73.93243,166,30,300,UP,NEW,8,22,60,0,0,0,0,Probably at the top of a tree in the middle of the backyard of 60 Oxford street
+10-26-2024,10:45,4,LF,609,2651-731102,Blue/Blue,Metal/Green,M,10-26-24 NOCA609,45.4134,-73.93025,156,50,20,UP,NEW,8,23,40,0,0,0,0,On the highway. Couldn't get a better signal on the other side.
+10-29-2024,9:55,4,AMC,620,2651-73197,Red/Black,Metal/Yellow,F,10-29-24 NOCA 620,45.41225,-73.92884,NA,NA,NA,NA,NEW,4,13,100,0,0,0,0,Bird flew well towards cedars at house 100 on Upper-Cambridge Street.
+10-31-2024,8:53,4,AMC,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,10-31-24 NOCA 623,45.41225,-73.92889,NA,NA,NA,NA,NEW,17,21,10,0,0,0,0,"Bird flew well, went in the cedar trees right on the front lawn of house 105 on Upper-Cambridge."
+11-01-2024,10:33,4,AMC,620,2651-73197,Red/Black,Metal/Yellow,F,11-01-24 NOCA620,45.41319,-73.9267,182,40,336,UP,NEW,14,30,100,1,0,0,0,"Bird in the middle of multiple properties, moves a lot."
+11-01-2024,11:00,4,AMC,623,2651-73197,Red/Black,Metal/Yellow,F,11-01-24 NOCA623,45.41355,-73.92982,181,60,317,UP,NEW,14,31,90,1,0,0,0,Bird most likely bouncing between the highway and our side.
+11-01-2024,10:35,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,11-01-24 NOCA614,45.40724,-73.93333,169,40,300,UP,NEW,16,29,95,0.1,0,0,0,On the other side of a fence in the direction of eco campus of McGill
+11-01-2024,11:30,3,LF,618,2651-73190,Blue/Yellow,Metal/Green,M,11-01-24 NOCA618,45.40836,-73.93272,219,20,266,UP,NEW,16,31,90,0,0,0,0,In the backyard of house 60 on Oxford st
+11-01-2024,12:30,3,LF,617,2991-45868,Red/Yellow,Metal/Yellow,F,11-01-24 NOCA617,45.41063,-73.93279,237,20,270,UP,NEW,15,40,40,0,0,0,0,On the other side of the fence of the cemetery (in between the cemetery and fields)
+11-03-2024,8:15,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,11-03-24 NOCA620,45.41371,-73.92822,234,20,145,STRAIGHT,NEW,-2,6,0,0,0,0,0,In a bush in front of 724 Surrey street
+11-03-2024,8:30,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,11-03-24 NOCA623,45.41297,-73.93201,210,20,230,STRAIGHT,NEW,-2,6,2,0,0,0,0,Between the cemetery and the highway
+11-03-2024,9:30,3,LF,617,2991-45868,Red/Yellow,Metal/Yellow,F,11-03-24 NOCA617,45.411,-73.93039,206,30,126,UP,NEW,0,1,0,0,0,0,0,Between house 91 and 87 on St Andrew
+11-03-2024,9:50,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,11-03-24 NOCA608,45.40847,-73.93301,202,30,10,UP,NEW,0,1,1,0,0,0,0,In a field on the other side of a fence
+11-03-2024,10:20,4,AMC,627,2991-10810,Blue/White,Metal/Green,M,NA,45.41246,-73.92892,NA,NA,NA,NA,NEW,3,6,0,0,0,0,0,"Bird translocated by a volunteer from MBO, bird seemed very active and flew in a tree."
+11-03-2024,10:35,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,11-03-24 NOCA614,45.40921,-73.93301,201,30,270,UP,NEW,2,2,0,0,0,0,0,In a field on the other side of a fence
+11-03-2024,11:00,3,LF,618,2651-73190,Blue/Yellow,Metal/Green,M,11-03-24 NOCA618,45.40837,-73.93268,250,10,275,DOWN,NEW,2,2,1,0,0,0,0,"Bird is dead, only found the beak and the tracker, in the middle the backyard of 60 Oxford street"
+11-06-2024,8:43,4,AMC,632,2991-46009,Green/Black,Metal/Yellow,F,11-06-24 NOCA632,45.41153,-73.9285,NA,NA,NA,NA,NEW,18,31,100,2,0,0,0,Bird flew well towards house 104 on upper-cambridge.
+11-07-2024,8:50,4,AMC,630,2651-73115,Red/Yellow,Metal/Green,M,11-06-24 NOCA630,45.41263,-73.92874,NA,NA,NA,NA,NEW,7,17,10,0,0,0,0,Bird flew well in the cedars of house 107.
+11-08-2024,9:05,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,11-08-24 NOCA630,45.41265,-73.92744,190,40,269,UP,NEW,10,27,98,0,0,0,0,In the backyard of 102 Somerset street
+11-08-2024,9:40,4,LF,627,2991-10810,Blue/White,Metal/Green,M,11-08-24 NOCA627,45.4066,-73.92874,219,20,60,UP,NEW,11,26,100,0,0,0,0,In the backyard of 66 Somerset Street
+11-08-2024,10:00,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,11-08-24 NOCA614,45.40844,-73.93307,191,30,223,UP,NEW,11,26,98,0,0,0,0,In the field next to the road to the cemetery
+11-08-2024,10:20,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,11-08-24 NOCA623,45.41338,-73.93085,213,30,97,STRAIGHT,NEW,10,26,90,0,0,0,0,Between the highway and the cemetery
+11-08-2024,10:45,3,LF,617,2991-45868,Red/Yellow,Metal/Yellow,F,11-08-24 NOCA617,45.41151,-73.92912,176,30,235,UP,NEW,10,26,100,0,0,0,0,In the yard of 92 Upper Cambridge street
+11-08-2024,11:00,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,11-08-24 NOCA620,45.41413,-73.92725,215,30,330,UP,NEW,10,26,98,0,0,0,0,In the forest between the highway and Surrey street
+11-08-2024,11:30,4,LF,632,2991-46009,Green/Black,Metal/Yellow,F,11-08-24 NOCA632,45.41422,-73.92709,113,70,70,UP,NEW,11,23,80,0,0,0,0,On the highway on the other side of a forest. Could not get a better signal on the other side of the highway
+11-10-2024,8:20,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,11-10-24 NOCA630,45.41257,-73.93036,207,30,231,DOWN,NEW,-1,6,15,0,0,0,0,In the front yard of 104 St-Andrews
+11-10-2024,9:00,4,LF,632,2991-46009,Green/Black,Metal/Yellow,F,11-10-24 NOCA632,45.41441,-73.9269,126,60,317,UP,NEW,1,6,15,0,0,0,0,On the highway on the other side of a forest. Could not get a better signal on the other side of the highway
+11-10-2024,10:00,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,11-10-24 NOCA620,45.41541,-73.92175,236,20,30,DOWN,NEW,5,2,20,0,0,0,0,In busches in between a field and 681 Surrey street
+11-10-2024,10:40,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,11-10-24 NOCA623,45.41318,-73.93147,198,40,288,UP,NEW,8,5,50,0,0,0,0,On the highway next to the cemetery
+11-10-2024,10:55,3,LF,617,2991-45868,Red/Yellow,Metal/Yellow,F,11-10-24 NOCA617,45.41263,-73.9325,233,20,296,UP,NEW,8,5,60,0,0,0,0,"Between the cemetery, the highway and Mcgill fields"
+11-10-2024,12:00,4,LF,627,2991-10810,Blue/White,Metal/Green,M,11-10-24 NOCA627,45.40659,-73.92924,206,30,19,UP,NEW,8,4,100,0,0,0,0,Between the yard of 66 Somerset street and 7 Upper Cambridge street
+11-12-2024,8:18,3,AMC,629,2991-46011,Red/Green,Metal/Green,M,11-12-24 NOCA629,45.41113,-73.93011,NA,NA,NA,NA,NEW,3,21,10,0,0,0,0,Flew well in the spruce trees in front of the house opposite of Richard's.
+11-12-2024,10:24,4,AMC,631,2991-46012,Black/Black,Metal/Yellow,F,11-12-24 NOCA631,45.41231,-73.02889,NA,NA,NA,NA,NEW,4,21,0,0,0,0,0,"Flew well, couldn't really see where it went (got distracted because the bird kicked the paper towel out of the box haha)."
+11-13-2024,12:14,3,AMC,635,2991-46014,Red/Black,Metal/Green,M,11-13-24 NOCA635,45.41109,-73.93064,NA,NA,NA,NA,NEW,4,13,0,0,0,0,0,"Flew well, went towards Richard's backyard."
+11-13-2024,13:00,4,AMC,609,2651-731102,Blue/Blue,Metal/Green,M,NA,45.430082,-73.938246,250,10,0,0,NEW,5,10,0,0,0,0,0,"Bird was caught in the nets while doing winter banding at MBO. Tag in good conditions, bird was released at the nets by Ana. GPS point taken through google maps."
+11-13-2024,13:26,3,AMC,637,2991-46015,Red/White,Metal/Green,M,11-13-24 NOCA637,45.41097,-73.93058,NA,NA,NA,NA,NEW,5,10,0,0,0,0,0,Bird flew well and went towards Richard's backyard.
+11-15-2024,10:40,3,LF,640,2991-46021,Brown/Black,Metal/Yellow,F,11-15-24 NOCA640,45.41108,-73.93045,NA,NA,NA,NA,NEW,4,9,15,0,0,0,0,Flew towards Richard's backyard.
+11-17-2024,8:45,3,LF,617,2991-45868,Red/Yellow,Metal/Yellow,F,11-17-24 NOCA617,45.40871,-73.93303,200,30,142,STRAIGHT,NEW,1,9,20,0,0,0,0,In the backyard of 64 Oxford street
+11-17-2024,9:00,3,LF,629,2991-46011,Red/Green,Metal/Green,M,11-17-24 NOCA628,45.40751,-73.93332,230,20,186,STRAIGHT,NEW,1,9,15,0,0,0,0,On the other side of the fence of Utilités Publiques. Saw it in a tree
+11-17-2024,9:30,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,11-17-24 NOCA614,45.40866,-73.93303,212,30,141,UP,NEW,3,10,10,0,0,0,0,In the backyard of 64 Oxford street
+11-17-2024,10:20,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,11-17-24 NOCA631,45.41191,-73.93036,194,40,137,UP,NEW,5,10,32,0,0,0,0,In the backyard of 97 St-Andrews street
+11-17-2024,11:00,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,11-17-24 NOCA623,45.40638,-73.92741,237,20,200,UP,NEW,5,10,15,0,0,0,0,In the backyard of 61 Somerset
+11-17-2024,11:30,3,LF,635,2991-46014,Red/Black,Metal/Green,M,11-17-24 NOCA635,45.40767,-73.92611,210,30,207,STRAIGHT,NEW,7,10,25,0,0,0,0,Between house 72 and 74 on Devon street
+11-17-2024,12:00,4,LF,632,2991-46009,Green/Black,Metal/Yellow,F,11-17-24 NOCA632,45.41427,-73.92688,113,70,110,UP,NEW,7,10,80,0,0,0,0,In the forest on the side of the highway (innaccessible)
+11-17-2024,12:15,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,11-17-24 NOCA620,45.41638,-73.92119,206,30,130,UP,NEW,7,9,70,0,0,0,0,In a forest between Croissant McBride and the empty field
+11-17-2024,12:45,3,LF,637,2991-46015,Red/White,Metal/Green,M,11-17-24 NOCA637,45.41011,-73.91961,231,20,180,DOWN,NEW,8,10,75,0,0,0,0,In bushes between 679 and 677 Wenchester street
+11-24-2024,8:40,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,11-24-24 NOCA614,45.4089,-73.93296,208,30,180,UP,NEW,1,28,15,0,0,0,0,In busches in between house 64 and 70 Oxford
+11-24-2024,9:45,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,11-24-24 NOCA620,45.40719,-73.93337,160,50,165,UP,NEW,2,28,30,0,0,0,0,In the backyard of Mcgill residence (tried to have abetter signal around)
+11-24-2024,10:15,3,LF,617,2991-45868,Red/Yellow,Metal/Yellow,F,11-24-24 NOCA617,45.41083,-73.93034,190,40,130,UP,NEW,3,30,80,0,0,0,0,Between the backyard of a few house on St-Andrews and Upper Cambridge
+11-24-2024,10:45,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,11-24-24 NOCA617#2,45.41066,-73.92928,220,30,145,UP,NEW,3,29,90,0,0,0,0,In the front yard of 86 Upper Cambridge
+11-24-2024,10:40,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,11-24-24 NOCA608,45.41147,-73.92912,170,50,150,UP,NEW,3,29,90,0,0,0,0,In the backyard between 92 Upper Cambridge and 93 St-Andrews
+11-24-2024,11:05,3,LF,635,2991-46014,Red/Black,Metal/Green,M,11-24-24 NOCA635,45.41037,-73.92078,214,30,130,UP,NEW,3,29,95,0,0,0,0,In the backyard of 681 Westchester
+11-24-2024,11:20,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,11-24-24 NOCA623,45.40908,-73.92177,247,20,160,UP,NEW,3,30,80,0,0,0,0,Saw the bird in a tree
+11-24-2024,12:20,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,11-24-24 NOCA631,45.41296,-73.92879,202,40,201,UP,NEW,4,29,55,0,0,0,0,In front of 111 Upper Cambridge
+11-29-2024,8:30,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,11-29-24 NOCA617,45.41143,-73.93056,226,20,244,UP,NEW,-1,6,98,0,0,0,0,In front of 94 St-Andrews in a tree
+11-29-2024,9:30,3,LF,637,2991-46015,Red/White,Metal/Green,M,11-29-24 NOCA637,45.40936,-73.9213,227,20,200,STRAIGHT,NEW,0,7,90,0,0,0,0,In a bush in a parc
+11-29-2024,9:45,3,LF,635,2991-46014,Red/Black,Metal/Green,M,11-29-24 NOCA635,45.41043,-73.92162,222,20,180,STRAIGHT,NEW,0,7,90,0,0,0,0,Saw the bird in a tree between a backyard and a parc
+11-29-2024,11:40,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,11-29-24 NOCA620,45.40686,-73.93343,207,30,250,UP,NEW,1,8,60,0,0,0,0,In the backyard of Mcgill residence
+11-29-2024,12:00,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,11-29-24 NOCA608,45.40643,-73.93401,230,30,255,STRAIGHT,NEW,1,9,60,0,0,0,0,Saw it in the Mcgill residence (in a bush)
+11-29-2024,12:30,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,11-29-24 NOCA614,45.40548,-73.93501,227,20,290,DOWN,NEW,1,12,60,0,0,0,0,On Mcgill campus in a bush
+11-29-2024,10:04,4,AMC,627,2991-10810,Blue/White,Metal/Green,M,11-29-24 NOCA641-627,45.4295,-73.93832,230,20,NA,NA,NEW,1,14,90,0,0,0,0,"Forgot to take the antennas' bearing. Birds were together (641 and 627), in the pines near the E nets."
+12-06-2024,9:00,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,12-06-24 NOCA608,45.4107,-73.92928,215,30,300,UP,NEW,-8,25,20,0,6,1,2,On the side of 86 upper cambridge
+12-06-2024,9:15,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,12-06-24 NOCA617,45.41069,-73.92928,240,20,300,DOWN,NEW,-8,25,20,0,6,1,2,Devant 86 upper cambridge
+12-06-2024,9:25,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,12-06-24 NOCA631,45.41259,-73.92899,197,30,270,UP,NEW,-8,25,20,0,6,1,2,Next to 104 upper cambridge in a bush
+12-06-2024,9:45,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,12-06-24 NOCA623,45.40769,-73.92609,228,30,270,UP,NEW,-7,23,10,0,6,1,2,Between 72 and 74 Devon street
+12-06-2024,12:00,3,LF,635,2991-46014,Red/Black,Metal/Green,M,12-06-24 NOCA635,45.41007,-73.91996,197,30,100,UP,NEW,-7,24,50,0,6,1,2,Backyard of 679 Westchester
+12-06-2024,12:45,3,LF,637,2991-46015,Red/White,Metal/Green,M,12-06-24 NOCA637,45.41024,-73.91888,197,30,120,STRAIGHT,NEW,-7,22,50,0,6,1,2,Backyard of 673 Westchest (friendly bird house)
+12-06-2024,14:51,4,ET,627,2991-10810,Blue/White,Metal/Green,M,12-06-24 NOCA627,45.42995,-73.93767,221,20,169,STRAIGHT,NEW,-6,24,40,0,0,0,0,In a tree with around 5 other cardinals nearby. Did not note the snow cover while there but I would estimate that there were 5 to 10 cm of hard snow
+12-08-2024,9:20,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,12-08-24 NOCA620,45.40686,-73.93256,224,30,120,UP,NEW,2,17,100,0,14,4,3,Between 41 and 37 Orxfor in a tree
+12-08-2024,9:45,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,12-08-24 NOCA630,45.4078,-73.93329,203,30,265,UP,NEW,2,17,100,0,14,4,3,In a tree between a field and a street
+12-08-2024,10:30,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,12-08-24 NOCA614,45.40632,-73.93279,190,20,228,UP,NEW,2,19,100,0,14,4,3,Saw it in a bush in the backyard of 32 Oxford street
+12-13-2024,8:30,3,LF,637,2991-46015,Red/White,Metal/Green,M,12-13-24 NOCA637,45.41005,-73.92005,201,30,196,UP,NEW,-7,11,40,0,7,1,1,In backyards with trees
+12-13-2024,8:45,3,LF,635,2991-46014,Red/Black,Metal/Green,M,12-13-24 NOCA635,45.41056,-73.92155,213,20,200,DOWN,NEW,-7,11,40,0,7,1,1,Saw it feeding on the ground
+12-13-2024,9:30,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,12-13-24 NOCA623,45.40771,-73.92617,210,30,230,DOWN,NEW,-6,13,5,0,7,1,1,In a bush
+12-13-2024,11:00,4,LF,627,2991-10810,Blue/White,Metal/Green,M,12-13-24 NOCA627,45.4299,-73.9382,212,30,185,UP,NEW,-6,20,0,0,7,1,1,In a bush close to the birdfeeder
+12-15-2024,9:30,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,12-15-24 NOCA608,45.4107,-73.92931,184,30,222,UP,NEW,-10,12,100,0,6,4,1,Moving a lot in between backyards of St-Andrews and Upper Cambridge
+12-13-2024,9:32,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,12-13-24 NOCA631,45.41349,-73.92946,127,30,9,UP,OLD,-8,18,0,0,7,1,1,Near highway and moving around a bit. Heard chirp
+12-13-2024,9:59,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,12-13-24 NOCA617,45.41151,-73.9291,157,30,293,UP,OLD,-7,19,0,0,7,1,1,In a cedar fence area
+12-13-2024,11:49,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,12-13-24 NOCA630,45.41154,-73.92911,151,30,230,UP,OLD,-6,23,0,0,7,1,1,"Moving a lot, possibly between orchard and forested area"
+12-13-2024,12:06,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,12-13-24 NOCA614,45.40871,-73.93299,150,40,105,STRAIGHT,OLD,-6,23,0,0,7,1,1,Seen at bird feeder. Moving a lot.
+12-13-2024,12:33,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,12-13-24 NOCA620,45.40878,-73.93304,152,30,260,STRAIGHT,OLD,-5,24,10,0,7,1,1,Probably in bushes between houses
+12-18-2024,8:30,3,LF,635,2991-46014,Red/Black,Metal/Green,M,12-18-24 NOCA635,45.41109,-73.91972,229,30,175,DOWN,NEW,2,10,100,0,0,1,3,Patches of snow
+12-18-2024,9:15,3,LF,637,2991-46015,Red/White,Metal/Green,M,12-18-24 NOCA637,45.41098,-73.92012,226,30,212,DOWN,NEW,2,9,100,0,0,1,3,"Patches of snow, saw it fly away"
+12-18-2024,10:00,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,12-18-24 NOCA623,45.40641,-73.92479,198,30,186,UP,NEW,3,8,100,0,0,1,3,Patches of snow
+12-18-2024,11:15,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,12-18-24 NOCA630,45.40776,-73.93327,219,20,241,DOWN,NEW,4,15,100,0,0,1,3,"Patches of snow, saw it in high grass on the other side of the fence"
+12-18-2024,11:50,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,12-18-24 NOCA631,45.4111,-73.93048,240,30,280,STRAIGHT,NEW,3,11,100,0,0,1,3,"Patches of snow, saw it fly away from a bush, with 608"
+12-18-2024,11:55,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,12-18-24 NOCA608,45.41116,-73.93045,198,30,260,STRAIGHT,NEW,3,11,100,0,0,1,3,"Patches of snow, in a bush with 631"
+12-18-2024,12:20,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,12-18-24 NOCA617,45.4127,-73.9325,210,20,67,STRAIGHT,NEW,4,15,100,0.1,0,1,3,"Patches of snow, in between the cemetery, the highway and the fields"
+12-19-2024,9:52,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,12-19-24 NOCA630,45.40779,-73.93321,166,30,94,UP,OLD,-4,20,10,0,2,2,0,"In a backyard behind hedges, with many other bird species around"
+12-19-2024,10:05,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,12-19-24 NOCA620,45.40776,-73.93328,153,30,94,UP,OLD,-4,20,10,0,2,2,0,"In a backyard behind hedges, with many other bird species around"
+12-19-2024,10:23,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,12-19-24 NOCA614,45.40781,-73.93324,151,30,81,UP,OLD,-4,20,15,0,2,2,0,In a backyard or hedges
+12-22-2024,8:20,4,LF,627,2991-10810,Blue/White,Metal/Green,M,12-22-24 NOCA627,45.42881,-73.93695,208,30,224,DOWN,NEW,-16,9,5,0,10,3,2,close to mbo gate
+12-22-2024,12:40,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,12-22-24 NOCA620,45.40689,-73.93379,197,30,255,STRAIGHT,NEW,-13,11,0,0,3,1,2,at the mcgill residence
+12-22-2024,13:00,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,12-22-24 NOCA614,45.40586,-73.93567,228,20,217,DOWN,NEW,-13,11,0,0,3,1,2,in a bush next to birdfeeders
+12-29-2024,8:30,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,12-29-24 NOCA631,45.4119,-73.93049,227,20,235,STRAIGHT,NEW,-2,4,100,0,12,1,2,Saw it in a bush with other cardinals
+12-29-2024,8:50,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,12-29-24 NOCA620,45.40759,-73.93246,214,20,218,STRAIGHT,NEW,-2,4,100,0,12,1,2,Saw it in a bush with 630
+12-29-2024,8:50,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,12-29-24 NOCA630,45.40768,-73.9325,222,20,218,STRAIGHT,NEW,-2,4,100,0,12,1,2,Saw it in a bush with 620
+12-29-2024,9:20,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,12-29-24 NOCA614,45.40767,-73.93253,205,30,224,UP,NEW,-2,7,100,0,12,1,2,In a backyard
+12-29-2024,9:40,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,12-29-24 NOCA623,45.40751,-73.92542,234,20,203,STRAIGHT,NEW,-2,8,100,0,12,1,2,
+12-29-2024,11:00,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,12-29-24 NOCA617,45.41093,-73.93018,230,30,238,STRAIGHT,NEW,-1,6,100,0,12,1,2,Saw it at a birdfeeder
+12-29-2024,12:30,3,LF,635,2991-46014,Red/Black,Metal/Green,M,12-29-24 NOCA635,45.41067,-73.92162,207,20,236,STRAIGHT,NEW,-1,8,100,0,12,1,2,In a bush with 637
+12-29-2024,12:30,3,LF,637,2991-46015,Red/White,Metal/Green,M,12-29-24 NOCA637,45.41067,-73.92162,214,20,236,STRAIGHT,NEW,-1,8,100,0,12,1,2,In a bush with 635
+01-02-2025,8:50,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,01-02-25 NOCA608,45.41072,-73.93044,194,30,80,UP,NEW,-1,26,98,0,2,2,1,
+01-02-2025,10:10,4,LF,627,2991-10810,Blue/White,Metal/Green,M,01-02-25 NOCA627,45.42963,-73.93831,210,20,110,STRAIGHT,NEW,-1,28,100,0,5,3,1,
+01-05-2025,8:50,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,01-05-25 NOCA631,45.41124,-73.93048,216,20,134,STRAIGHT,NEW,-12,19,100,0,3,4,1,
+01-05-2025,9:00,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,01-05-25 NOCA608,45.41121,-73.93057,227,20,270,DOWN,NEW,-12,19,100,0,3,4,1,
+01-05-2025,9:20,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,01-05-25 NOCA617,45.41085,-73.93014,235,20,210,STRAIGHT,NEW,-12,17,100,0,3,4,1,
+01-05-2025,10:30,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,01-05-25 NOCA630,45.40697,-73.9344,218,20,168,DOWN,NEW,-13,16,100,0,3,4,1,
+01-05-2025,10:45,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,01-05-25 NOCA620,45.40699,-73.93341,200,30,241,UP,NEW,-13,16,100,0,3,4,1,
+01-05-2025,12:00,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,01-05-25 NOCA623,45.40715,-73.92596,202,30,255,UP,NEW,-13,15,100,0,3,4,1,
+01-07-2025,9:15,4,LF,627,2991-10810,Blue/White,Metal/Green,M,01-07-25 NOCA627,45.41982,-73.93848,203,30,195,STRAIGHT,NEW,-9,22,100,0,7,1,1,Saw it with more cardinals including 625 at a birdfeeder
+01-10-2025,10:34,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,01-10-25 NOCA631,45.41051,-73.92925,164,20,344,UP,OLD,-7,21,0,0,11,1,1,In a tree in a front yard with 617
+01-10-2025,10:34,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,01-10-25 NOCA617,45.41051,-73.92925,157,20,344,UP,OLD,-7,21,0,0,11,1,1,In a tree in a front yard with 631
+01-10-2025,11:40,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,01-10-25 NOCA614,45.40778,-73.93318,151,30,158,UP,OLD,-6,21,0,0,11,1,1,In a backyard probably in a tree
+01-10-2025,11:54,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,01-10-25 NOCA630,45.40768,-73.9332,152,30,150,UP,OLD,-6,21,0,0,11,1,1,In a front yard probably in a tree
+01-12-2025,8:30,3,LF,635,2991-46014,Red/Black,Metal/Green,M,01-12-25 NOCA635,45.41007,-73.92012,204,30,110,STRAIGHT,NEW,-10,9,0,0,17,1,1,
+01-12-2025,8:40,3,LF,637,2991-46015,Red/White,Metal/Green,M,01-12-25 NOCA637,45.40923,-73.92089,207,30,128,UP,NEW,-10,9,0,0,17,1,1,
+01-12-2025,9:00,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,01-12-25 NOCA623,45.40691,-73.92595,214,30,138,DOWN,NEW,-10,9,0,0,17,1,1,
+01-12-2025,9:30,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,01-12-25 NOCA631,45.41034,-73.93063,203,30,127,STRAIGHT,NEW,-8,10,0,0,17,1,1,
+01-12-2025,9:40,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,01-12-25 NOCA608,45.41002,-73.93022,249,10,117,UP,NEW,-8,10,0,0,17,1,1,In a tree with 631
+01-12-2025,9:40,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,01-12-25 NOCA631-2,45.41002,-73.93022,250,10,117,UP,NEW,-8,10,0,0,17,1,1,In a tree with 608
+01-12-2025,9:50,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,01-12-25 NOCA617,45.41028,-73.93066,230,20,135,DOWN,NEW,-8,10,0,0,17,1,1,Probably in a bush
+01-12-2025,11:20,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,01-12-25 NOCA630,45.40671,-73.9327,217,20,179,STRAIGHT,NEW,-7,10,20,0,17,1,1,
+01-12-2025,11:40,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,01-12-25 NOCA620,45.40681,-73.93327,212,20,103,STRAIGHT,NEW,-6,11,30,0,17,1,1,
+01-12-2025,12:10,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,01-12-25 NOCA614,45.40712,-73.9334,180,40,103,UP,NEW,-5,11,60,0,17,1,1,In the yard of Mcgill residence
+01-14-2025,9:20,4,LF,627,2991-10810,Blue/White,Metal/Green,M,01-14-25 NOCA627,45.42809,-73.93761,227,20,63,UP,NEW,-5,22,50,0,17,1,1,
+01-17-2025,9:09,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,01-17-25 NOCA631,45.41003,-73.93047,163,20,78,UP,OLD,-5,8,100,0,17,1,1,
+01-17-2025,9:43,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,01-17-25 NOCA617,45.41091,-73.93007,164,20,338,STRAIGHT,OLD,-5,9,100,0,17,1,1,
+01-17-2025,10:25,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,01-17-25 NOCA620,45.40765,-73.93322,164,30,83,UP,OLD,-4,11,100,0,17,1,1,in a backyard with 614 with a lot of other birds (mostly sparrows)
+01-17-2025,10:25,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,01-17-25 NOCA614,45.40765,-73.93322,158,30,83,UP,OLD,-4,11,100,0,17,1,1,in a backyard with 620 with a lot of other birds (mostly sparrows)
+01-17-2025,11:14,3,ET,637,2991-46015,Red/White,Metal/Green,M,01-17-25 NOCA637,45.40705,-73.92603,155,30,135,UP,OLD,-3,11,100,0,17,1,1,
+01-19-2025,9:20,3,LF,635,2991-46014,Red/Black,Metal/Green,M,01-19-25 NOCA635,45.4095,-73.92048,224,20,227,UP,NEW,-11,17,40,0,13,2,2,Saw it in a tree
+01-19-2025,9:40,3,LF,637,2991-46015,Red/White,Metal/Green,M,01-19-25 NOCA637,45.40696,-73.92595,200,30,222,UP,NEW,-11,17,50,0,13,2,2,
+01-19-2025,9:50,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,01-19-25 NOCA623,45.40691,-73.92596,223,20,229,UP,NEW,-11,17,50,0,13,2,2,
+01-19-2025,10:30,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,01-19-25 NOCA617,45.41129,-73.92915,244,20,256,STRAIGHT,NEW,-12,20,90,0,13,2,2,
+01-19-2025,10:45,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,01-19-25 NOCA608,45.41071,-73.9293,201,30,255,UP,NEW,-12,20,100,0,13,2,2,
+01-19-2025,11:00,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,01-19-25 NOCA631,45.41158,-73.92912,206,40,260,STRAIGHT,NEW,-12,20,100,0,13,2,2,
+01-19-2025,12:00,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,01-19-25 NOCA620,45.40705,-73.93338,203,30,256,STRAIGHT,NEW,-11,15,60,0,13,2,2,
+01-19-2025,12:15,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,01-19-25 NOCA630,45.40736,-73.93336,203,30,249,STRAIGHT,NEW,-11,15,60,0,13,2,2,
+01-19-2025,12:25,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,01-19-25 NOCA620#2,45.40742,-73.93325,229,20,228,UP,NEW,-11,15,60,0,13,2,2,Saw it in a tree on the other side of a fence
+01-24-2025,11:12,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,01-24-25 NOCA620,45.40677,-73.93342,152,30,127,UP,OLD,-11,14,0,0,17,1,1,Around a backyard with a birdfeeder and a lot of other small birds
+01-24-2025,11:25,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,01-24-25 NOCA614,45.40715,-73.93337,150,30,13,UP,OLD,-11,14,0,0,17,1,1,In the trees on the west side of cemetery road
+01-24-2025,11:33,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,01-24-25 NOCA630,45.40714,-73.93337,152,30,295,UP,OLD,-11,15,0,0,17,1,1,
+01-24-2025,11:58,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,01-24-25 NOCA631,45.41088,-73.9301,173,20,74,STRAIGHT,OLD,-10,15,0,0,17,1,1,"Backyard with birdfeeder, in a tree"
+01-24-2025,12:15,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,01-24-25 NOCA617,45.41082,-73.93004,156,30,77,STRAIGHT,OLD,-10,16,0,0,17,1,1,Around a backyard with birdfeeder
+01-24-2025,12:30,4,ET,608,2651-73186,Blue/Black,Metal/Yellow,F,01-24-25 NOCA608,45.41064,-73.92916,171,30,270,UP,OLD,-10,16,0,0,17,1,1,Around a backyard with birdfeeder
+01-26-2025,9:55,3,LF,635,2991-46014,Red/Black,Metal/Green,M,01-26-25 NOCA635,45.40767,-73.93324,196,30,277,UP,NEW,0,28,60,0,18,2,2,moving around a lot
+01-26-2025,11:30,3,LF,637,2991-46015,Red/White,Metal/Green,M,01-26-25 NOCA637,45.41053,-73.92157,217,20,219,STRAIGHT,NEW,1,37,100,0,18,2,2,saw it with a lot of other birds
+01-31-2025,8:42,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,01-31-25 NOCA614,45.40679,-73.9334,151,30,117,UP,OLD,-8,3,95,0,21,1,1,backyard on east side of cemetery road near 630
+01-31-2025,8:42,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,01-31-25 NOCA630,45.40679,-73.9334,162,30,117,UP,OLD,-8,3,95,0,21,1,1,backyard on east side of cemetery road near 614
+01-31-2025,8:55,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,01-31-25 NOCA620,45.40773,-73.9333,162,20,333,STRAIGHT,OLD,-8,4,96,0,21,1,1,on western side of cemetery road
+01-31-2025,9:23,4,ET,608,2651-73186,Blue/Black,Metal/Yellow,F,01-31-25 NOCA608,45.41085,-73.93018,161,30,163,UP,OLD,-7,5,100,0,21,1,1,"making a lot of noise, in backyard with birdfeeder"
+01-31-2025,9:43,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,01-31-25 NOCA617,45.41185,-73.92895,152,30,100,UP,OLD,-7,5,98,0,21,1,1,
+01-31-2025,11:00,3,ET,635,2991-46014,Red/Black,Metal/Green,M,01-31-25 NOCA635,45.41081,-73.92074,153,30,138,UP,OLD,-5,5,70,0,21,1,1,moving around a lot
+02-07-2025,9:24,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,02-07-25 NOCA620,45.40709,-73.93334,152,30,300,UP,OLD,-6,35,25,0,31,1,1,on western side of cemetery road
+02-07-2025,10:56,3,ET,637,2991-46015,Red/White,Metal/Green,M,02-07-25 NOCA637,45.41043,-73.92081,150,30,113,UP,OLD,-6,36,35,0,31,1,1,in a front yard
+02-07-2025,12:53,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,02-07-25 NOCA614,45.40738,-73.93324,153,30,120,UP,OLD,-5,34,85,0,31,1,1,backyard on east side of cemetery road near 630
+02-07-2025,12:55,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,02-07-25 NOCA630,45.40733,-73.93328,173,30,120,UP,OLD,-5,34,85,0,31,1,1,backyard on east side of cemetery road near 614
+02-08-2025,8:35,4,LF,627,2991-10810,Blue/White,Metal/Green,M,02-08-25 NOCA627,45.43122,-73.93854,202,30,146,UP,NEW,-11,9,0,0,27,1,2,
+02-09-2025,9:00,3,LF,635,2991-46014,Red/Black,Metal/Green,M,02-09-25 NOCA635,45.4106,-73.92071,220,20,210,STRAIGHT,NEW,-9,7,20,0,31,1,2,
+02-09-2025,9:15,3,LF,637,2991-46015,Red/White,Metal/Green,M,02-09-25 NOCA637,45.41028,-73.9189,224,20,224,STRAIGHT,NEW,-9,7,20,0,31,1,2,
+02-09-2025,10:30,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,02-09-25 NOCA631,45.41085,-73.93021,237,20,190,STRAIGHT,NEW,-8,8,60,0,31,1,2,
+02-09-2025,11:00,4,LF,608,2651-73186,Blue/Black,Metal/Yellow,F,02-09-25 NOCA608,45.41114,-73.93048,221,20,236,UP,NEW,-8,8,90,0,31,1,2,
+02-09-2025,11:20,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,02-09-25 NOCA617,45.4106,-73.93069,198,30,235,UP,NEW,-8,8,90,0,31,1,2,
+02-11-2025,12:40,4,LF,627,2991-10810,Blue/White,Metal/Green,M,02-11-25 NOCA627,45.43008,-73.93777,205,30,150,STRAIGHT,NEW,-5,24,40,0,25,1,1,
+02-20-2025,NA,4,AMC,608,2651-73186,Blue/Black,Metal/Yellow,F,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Found dead by Richard near his feeders. Bird showed no signs of predation, but had a known infection to the eye, most likely conjunctivitis. No health concerns regarding tag upon removal."
+02-21-2025,8:26,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,01-21-25 NOCA630,45.40748,-73.93326,184,20,80,UP,OLD,-12,18,100,0,61,1,1,in a backyard that has a feeder
+02-21-2025,8:26,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,01-21-25 NOCA614,45.40748,-73.93326,155,30,120,UP,OLD,-12,18,100,0,61,1,1,in a backyard that has a feeder
+02-21-2025,9:16,3,ET,635,2991-46014,Red/Black,Metal/Green,M,01-21-25 NOCA635,45.41037,-73.92081,150,30,115,UP,OLD,-11,19,99,0,61,1,1,
+02-21-2025,10:08,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,01-21-25 NOCA617,45.41086,-73.93012,155,30,110,UP,OLD,-9,20,70,0,61,1,1,
+02-21-2025,10:58,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,01-21-25 NOCA631,45.41105,-73.93053,145,30,110,UP,OLD,-8,21,65,0,61,1,1,
+02-21-2025,12:20,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,01-21-25 NOCA620,45.40771,-73.93319,151,30,116,UP,OLD,-7,25,98,0,61,1,1,in a backyard that has a feeder
+02-22-2025,9:40,4,LF,627,2991-10810,Blue/White,Metal/Green,M,02-22025 NOCA627,45.43039,-73.93795,245,10,60,UP,NEW,-11,9,0,0,46,1,1,
+02-22-2025,11:42,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,01-22-25 NOCA631,45.40714,-73.92828,150,30,307,UP,OLD,-7,11,100,0,61,1,1,
+02-22-2025,12:40,3,ET,637,2991-46015,Red/White,Metal/Green,M,01-22-25 NOCA637,45.41074,-73. 92072,150,30,114,UP,OLD,-5,12,100,0,61,1,1,around 635
+02-22-2025,13:23,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,01-22-25 NOCA630,45.4074,-73.93326,170,20,84,UP,OLD,-4,12,100,0,61,1,1,
+02-23-2025,8:50,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,02-23-25 NOCA630,45.4072,-73.93261,204,30,240,STRAIGHT,NEW,-3,12,100,0,56,1,1,
+02-23-2025,9:00,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,02-23-25 NOCA620,45.40678,-73.93267,207,30,266,STRAIGHT,NEW,-3,12,100,0,56,1,1,Saw it in a bush
+02-23-2025,9:50,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,02-23-25 NOCA631,45.41116,-73.93052,243,20,223,STRAIGHT,NEW,-3,12,100,0,56,1,1,
+02-23-2025,9:50,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,02-23-25 NOCA617,45.41116,-73.93052,202,30,223,STRAIGHT,NEW,-3,12,100,0,56,1,1,
+02-23-2025,11:10,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,02-23-25 NOCA614,45.4077,-73.93325,250,20,215,UP,NEW,-3,15,100,0,56,1,1,Saw it
+02-23-2025,12:00,3,LF,635,2991-46014,Red/Black,Metal/Green,M,02-23-25 NOCA635,45.41041,-73.92077,208,30,172,STRAIGHT,NEW,-2,15,100,0,56,1,1,
+02-23-2025,12:20,3,LF,637,2991-46015,Red/White,Metal/Green,M,02-23-25 NOCA637,45.41125,-73.92153,196,30,166,STRAIGHT,NEW,-2,15,100,0,56,1,1,Saw it in a bush
+02-28-2025,8:30,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,02-28-25 NOCA630,45.40736,-73.93329,156,30,120,UP,OLD,-10,20,0,0,41,1,1,in a backyard that has a feeder with many other birds (many species including multiple cardinals)
+02-28-2025,8:38,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,02-28-25 NOCA620,45.4077,-73.93319,154,30,105,UP,OLD,-10,20,0,0,41,1,1,in a backyard that has a feeder with many other birds (many species including multiple cardinals)
+02-28-2025,9:14,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,02-28-25 NOCA617,45.41044,-73.9307,152,30,281,UP,OLD,-10,19,0,0,41,1,1,in a front yard on st andrews
+02-28-2025,9:35,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,02-28-25 NOCA631,45.41081,-73.9301,154,30,152,UP,OLD,-10,20,0,0,41,1,1,in a backyard on st andrews
+02-28-2025,11:02,3,ET,635,2991-46014,Red/Black,Metal/Green,M,02-28-25 NOCA635,45.41046,-73.92075,153,30,120,STRAIGHT,OLD,-10,20,0,0,41,1,1,
+02-28-2025,12:14,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,02-28-25 NOCA614,45.40766,-73.93319,151,30,81,STRAIGHT,OLD,-8,20,7,0,41,1,1,
+03-04-2025,9:00,3,LF,635,2991-46014,Red/Black,Metal/Green,M,03-04-25 NOCA635,45.41003,-73.92015,190,40,245,UP,NEW,-4,5,80,0,48,1,3,next to construction
+03-04-2025,9:30,3,LF,637,2991-46015,Red/White,Metal/Green,M,03-04-25 NOCA637,45.41059,-73.92069,195,30,256,UP,NEW,-3,6,50,0,48,1,3,
+03-04-2025,10:20,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,03-04-25 NOCA631,45.41011,-73.92921,233,20,237,UP,NEW,1,6,100,0,48,1,3,saw it in a tree
+03-04-2025,10:50,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,03-04-25 NOCA617,45.41165,-73.92908,200,30,230,STRAIGHT,NEW,1,6,100,0,48,1,3,
+03-04-2025,11:10,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,03-04-25 NOCA614,45.40745,-73.93325,201,30,214,UP,NEW,1,6,100,0,48,1,3,saw it in a tree
+03-04-2025,11:20,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,03-04-25 NOCA630,45.40737,-73.93323,223,20,211,DOWN,NEW,1,6,100,0,48,1,3,
+03-04-2025,11:30,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,03-04-25 NOCA620,45.40846,-73.93314,225,20,222,UP,NEW,1,6,100,0,48,1,3,
+03-06-2025,10:00,4,LF,627,2991-10810,Blue/White,Metal/Green,M,03-06-25 NOCA627,45.4302,-73.93821,210,30,222,STRAIGHT,NEW,3,19,100,0,29,2,5,
+03-07-2025,10:25,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,03-07-25 NOCA631,45.4102,-73.92924,177,20,125,STRAIGHT,OLD,-4,34,5,0,38,2,2,very loud in a bush
+03-07-2025,11:02,3,ET,635,2991-46014,Red/Black,Metal/Green,M,03-07-25 NOCA635,45.41032,-73.92083,151,30,92,STRAIGHT,OLD,-3,33,3,0,38,2,2,
+03-07-2025,12:14,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,03-07-25 NOCA617,45.41065,-73.92922,156,30,7,UP,OLD,-2,34,0,0,38,2,2,
+03-07-2025,12:52,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,03-07-25 NOCA630,45.40732,-73.93326,172,30,120,STRAIGHT,OLD,-1,35,0,0,38,2,2,in a bush
+03-07-2025,13:00,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,03-07-25 NOCA620,45.40754,-73.93323,165,30,116,UP,OLD,-1,35,2,0,38,2,2,
+03-07-2025,13:00,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,03-07-25 NOCA614,45.40754,-73.93323,158,30,116,UP,OLD,-1,35,2,0,38,2,2,
+03-09-2025,8:55,3,LF,635,2991-46014,Red/Black,Metal/Green,M,03-09-25 NOCA635,45.41099,-73.91974,199,30,126,UP,NEW,-3,13,100,0,40,4,1,saw it in a tree with another cardinal
+03-09-2025,9:10,3,LF,637,2991-46015,Red/White,Metal/Green,M,03-09-25 NOCA637,45.41008,-73.92078,203,30,98,STRAIGHT,NEW,-3,12,100,0,40,4,1,
+03-09-2025,9:40,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,03-09-25 NOCA617,45.40998,-73.92992,204,30,85,STRAIGHT,NEW,-4,12,100,0,40,4,1,
+03-09-2025,9:50,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,03-09-25 NOCA631,45.41087,-73.93014,202,30,130,STRAIGHT,NEW,-4,12,100,0,40,4,1,
+03-09-2025,10:20,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,03-09-25 NOCA620,45.40733,-73.93336,212,30,100,STRAIGHT,NEW,-2,19,100,0,40,4,1,
+03-09-2025,10:35,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,03-09-25 NOCA630,45.40718,-73.932457,206,30,99,UP,NEW,-3,13,100,0,40,4,1,
+03-09-2025,11:00,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,03-09-25 NOCA614,45.40654,-73.93433,232,20,32,STRAIGHT,NEW,-3,14,100,0,40,4,1,
+03-11-2025,9:40,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,03-11-25 NOCA631,45.41003,-73.92987,201,30,5,STRAIGHT,NEW,0,4,60,0,34,2,2,
+03-11-2025,10:15,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,03-11-25 NOCA630,45.40722,-73.93321,212,30,141,STRAIGHT,NEW,0,4,40,0,34,2,2,
+03-11-2025,12:20,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,03-11-25 NOCA620,45.40763,-73.93252,198,30,330,STRAIGHT,NEW,6,4,80,0,34,2,2,
+03-11-2025,12:50,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,03-11-25 NOCA617,45.41103,-73.93064,169,50,320,STRAIGHT,NEW,7,4,60,0,34,2,2,moving a lot
+03-12-2025,11:00,3,AMC,637,2991-46015,Red/White,Metal/Green,M,03-12-25 NOCA637,45.41208,-73.9196,158,40,162,STRAIGHT,NEW,-4,7,0,0,31,2,2,"In backyard in usual spot, but very hard to get a good point... probably right in the middle of the yards."
+03-12-2025,11:41,3,AMC,617,2991-45869,Red/Yellow,Metal/Yellow,F,03-12-25 NOCA617,45.41167,-73.9304,200,40,113,STRAIGHT,NEW,-3,5,10,0,31,2,2,"Found on St-Andrews, quite a good signal but was bouncing a lot between properties."
+03-13-2025,10:15,4,LF,627,2991-10810,Blue/White,Metal/Green,M,03-13-25 NOCA627,45.4299,-73.93845,210,30,132,STRAIGHT,NEW,-7,15,20,0,24,4,2,
+03-14-2025,11:30,3,ET,640,2991-46021,Brown/Black,Metal/Yellow,F,03-14-25 NOCA640,45.40754,-73.93323,157,30,125,UP,OLD,4,6,2,0,24,4,2,
+03-14-2025,12:20,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,03-14-25 NOCA631,45.41003,-73.92922,180,30,72,STRAIGHT,OLD,6,6,5,0,24,4,2,in a hedge
+03-16-2025,9:15,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,03-16-25 NOCA623,45.40754,-73.92535,129,60,255,UP,NEW,11,12,90,0,25,1,4,"in a backyard, no other access, tried the other side"
+03-16-2025,9:50,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,03-16-25 NOCA620,45.40784,-73.93469,211,30,265,DOWN,NEW,9,11,100,0,25,1,4,
+03-16-2025,10:10,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,03-16-25 NOCA614,45.40639,-73.93341,198,40,254,STRAIGHT,NEW,9,11,100,0,25,1,4,moving a lot
+03-16-2025,11:30,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,03-16-25 NOCA631,45.41003,-73.92921,197,30,270,STRAIGHT,NEW,9,13,100,1.7,25,1,4,in a bush
+03-16-2025,12:30,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,03-16-25 NOCA617,45.41082,-73.9293,203,30,233,DOWN,NEW,0,13,100,0,25,1,4,
+03-18-2025,10:00,4,LF,627,2991-10810,Blue/White,Metal/Green,M,03-18-25 NOCA627,45.43063,-73.9382,231,30,255,STRAIGHT,NEW,-3,4,0,0,7,4,4,saw it fly in a tree
+03-23-2025,9:20,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,03-23-25 NOCA620,45.40759,-73.93321,201,30,125,STRAIGHT,NEW,-9,12,0,0,1,4,2,
+03-25-2025,10:00,4,LF,627,2991-10810,Blue/White,Metal/Green,M,03-25-25 NOCA627,45.4304,-73.93798,205,30,115,STRAIGHT,NEW,2,17,95,0,5,2,2,
+03-26-2025,10:10,4,ET,620,2651-73197,Red/Black,Metal/Yellow,F,03-26-25 NOCA620,45.40777,-73.93313,162,20,124,UP,OLD,2,17,70,0,0,0,0,moving a lot
+03-26-2025,12:30,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,03-26-25 NOCA617,45.41029,-73.92082,157,30,100,STRAIGHT,OLD,3,15,80,0,0,0,0,in a different location than usual
+03-28-2025,10:50,3,AMC,617,2991-45869,Red/Yellow,Metal/Yellow,F,03-28-25 NOCA617,45.41142,-73.93047,201,40,131,STRAIGHT,NEW,-2,16,60,0,0,0,0,"Located in backyard of house close to Richard's, lated detected quite strongly when downloading the tower data."
+03-28-2025,11:30,4,AMC,631,2991-46012,Black/Black,Metal/Yellow,F,03-28-25 NOCA631,45.41028,-73.92927,231,30,160,UP,NEW,-1,16,50,0,0,0,0,"Heard the bird sing and got a very good point, was in cedar trees at a street corner."
+03-28-2025,11:50,4,AMC,620,2651-73197,Red/Black,Metal/Yellow,F,03-28-25 NOCA620,45.40766,-73.93327,208,40,101,STRAIGHT,NEW,1,16,50,0,0,0,0,"Got the bird in the path leading to the cemetary, close to the McGill fields, bird was in a backyard of houses on that path."
+03-28-2025,11:00,3,ET,640,2991-46021,Brown/Black,Metal/Yellow,F,03-28-25 NOCA640,45.42054,-73.9057,151,30,100,UP,OLD,-2,16,90,0,0,0,0,
+03-28-2025,12:20,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,03-28-25 NOCA630,45.41514,-73.91206,123,40,82,STRAIGHT,OLD,0,16,20,0,0,0,0,Seemed to be in a backyard and not moving at all
+04-01-2025,10:20,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,04-01-25 NOCA617,45.41089,-73.93143,171,40,190,UP,NEW,-1,21,20,0,0,0,0,In a backyard. could not get closer
+04-01-2025,10:50,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,04-01-25 NOCA614,45.40791,-73.93313,179,40,191,UP,NEW,0,21,10,0,0,0,0,was moving a lot
+04-01-2025,11:00,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,04-01-25 NOCA620,45.40758,-73.93253,202,30,283,UP,NEW,0,21,5,0,0,0,0,
+04-04-2025,10:14,4,ET,630,2651-73115,Red/Yellow,Metal/Green,M,04-04-25 NOCA630,45.41504,-73.91206,124,40,89,STRAIGHT,OLD,6,23,15,0,0,0,0,not moving; same spot and similar numbers as last time I got this bird
+04-04-2025,13:15,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,04-04-25 NOCA631,45.4101,-73.92917,152,30,68,UP,OLD,8,24,5,0,0,0,0,
+04-04-2025,13:31,3,ET,617,2991-45869,Red/Yellow,Metal/Yellow,F,04-04-25 NOCA617,45.41067,-73.92924,171,30,288,STRAIGHT,OLD,9,24,5,0,0,0,0,in a front
+04-05-2025,9:00,4,LF,627,2991-10810,Blue/White,Metal/Green,M,04-05-25 NOCA627,45.42971,-73.9389,213,30,280,STRAIGHT,NEW,2,13,100,0,0,0,0,
+04-06-2025,10:00,4,LF,620,2651-73197,Red/Black,Metal/Yellow,F,04-06-25 NOCA620,45.4075,-73.93327,202,30,314,UP,NEW,5,11,100,0.1,0,0,0,
+04-06-2025,11:00,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,04-06-25 NOCA614,45.40781,-73.93317,155,50,224,DOWN,NEW,5,12,100,0,0,0,0,Might be dead. Could not get closer
+04-06-2025,11:20,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,04-06-25 NOCA617,45.41138,-73.93046,169,50,279,UP,NEW,6,15,50,0,0,0,0,Got a better signal after
+04-06-2025,11:40,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,04-06-25 NOCA617-2,45.41149,-73.92899,201,30,270,UP,NEW,6,15,40,0,0,0,0,
+04-06-2025,12:00,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,04-06-25 NOCA631,45.41008,-73.92919,200,30,258,DOWN,NEW,5,15,95,0,0,0,0,
+04-06-2025,13:30,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,04-06-25 NOCA623,45.40749,-73.92534,137,50,225,UP,NEW,7,17,70,0,0,0,0,Went all around and could not get closer
+04-06-2025,14:00,3,LF,637,2991-46015,Red/White,Metal/Green,M,04-06-25 NOCA637,45.40691,-73.92591,172,40,86,DOWN,NEW,7,18,70,0,0,0,0,saw it fly away
+04-08-2025,9:00,4,LF,627,2991-10810,Blue/White,Metal/Green,M,04-08-25 NOCA627,45.43146,-73.93868,202,30,32,UP,NEW,-1,19,100,0,6,1,3,With more cardinals including 625
+04-09-2025,10:09,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,04-09-25 NOCA631,45.41007,-73.92924,153,30,121,STRAIGHT,OLD,-4,17,2,0,6,1,2,moving a lot
+04-09-2025,12:50,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,04-09-25 NOCA614,45.40659,-73.92538,112,50,25,STRAIGHT,OLD,0,21,3,0,6,1,2,in the middle of the same block as last time I got a reading for her; could not get closer
+04-10-2025,10:45,4,LF,630,2651-73115,Red/Yellow,Metal/Green,M,04-10-25 NOCA630,45.41502,-73.91202,175,40,100,UP,NEW,4,6,15,0,0,0,0,in a backyard could not get close
+04-10-2025,13:20,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,04-10-25 NOCA623,45.40749,-73.92517,134,60,200,DOWN,NEW,6,7,95,0,0,0,0,in a backyard. went around and did not get a better signal
+04-13-2025,10:10,4,LF,627,2991-10810,Blue/White,Metal/Green,M,04-13-25 NOCA627,45.43099,-73.93861,226,20,241,UP,NEW,6,11,95,0,0,0,0,
+04-15-2025,8:45,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,04-15-25 NOCA623,45.40743,-73.92521,144,50,225,UP,NEW,9,8,5,0,0,0,0,in the same backyard as last time
+04-15-2025,9:15,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,04-15-25 NOCA614,45.40789,-73.93316,173,40,270,UP,NEW,11,13,0,0,0,0,0,in the same backyard as last time
+04-15-2025,9:45,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,04-15-25 NOCA631,45.41002,-73.92924,200,30,266,STRAIGHT,NEW,12,18,20,0,0,0,0,same bush as last time
+04-17-2025,9:35,4,LF,627,2991-10810,Blue/White,Metal/Green,M,04-17-25 NOCA627,45.43005,-73.93933,217,20,60,STRAIGHT,NEW,1,19,0,0,0,0,0,
+04-17-2025,11:00,3,LF,637,2991-46015,Red/White,Metal/Green,M,04-17-25 NOCA637,45.41077,-73.92068,170,50,88,UP,NEW,3,20,0,0,0,0,0,moving a lot. in a backyard
+04-18-2025,10:45,4,ET,614,2651-73185,Blue/Green,Metal/Yellow,F,04-18-25 NOCA614,45.40787,-73.93317,132,40,127,STRAIGHT,OLD,9,10,70,0,0,0,0,in a backyard. could not get closer
+04-18-2025,11:20,4,ET,631,2991-46012,Black/Black,Metal/Yellow,F,04-18-25 NOCA631,45.41005,-73.92921,157,30,114,STRAIGHT,OLD,10,11,50,0,0,0,0,same place as last few times
+04-18-2025,12:02,4,ET,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,04-18-25 NOCA623,45.90754,-73.92493,96,60,176,STRAIGHT,OLD,12,12,100,0,0,0,0,same place as last few times. in the middle of a block. could not get closer.
+04-18-2025,12:37,3,ET,637,2991-46015,Red/White,Metal/Green,M,04-18-25 NOCA637,45.4109,-73.92205,150,30,276,UP,OLD,12,14,100,0,0,0,0,
+04-19-2025,13:20,4,LF,627,2991-10810,Blue/White,Metal/Green,M,04-19-25 NOCA627,45.43123,-73.93845,225,20,30,STRAIGHT,NEW,19,17,100,0,0,0,0,
+04-19-2025,13:50,3,LF,617,2991-45869,Red/Yellow,Metal/Yellow,F,04-19-25 NOCA617,45.42939,-73.93853,224,20,20,STRAIGHT,NEW,19,17,100,0,0,0,0,
+04-22-2025,9:20,3,LF,637,2991-46015,Red/White,Metal/Green,M,04-22-25 NOCA637,45.41064,-73.92069,168,40,123,STRAIGHT,NEW,10,7,95,0,0,0,0,in a backyard
+04-22-2025,9:45,4,LF,631,2991-46012,Black/Black,Metal/Yellow,F,04-22-25 NOCA631,45.41008,-73.92916,219,20,97,STRAIGHT,NEW,10,8,100,0,0,0,0,same bush as last time
+04-22-2025,10:30,4,LF,614,2651-73185,Blue/Green,Metal/Yellow,F,04-22-25 NOCA614,45.40785,-73.93312,181,40,103,UP,NEW,10,21,100,0,0,0,0,in a backyard
+04-22-2025,11:15,4,LF,623,2991-46001,Yellow/Yellow,Metal/Yellow,F,04-22-25 NOCA623,45.40749,-73.92525,150,40,245,STRAIGHT,NEW,10,17,100,0,0,0,0,
+04-22-2025,13:10,4,LF,627,2991-10810,Blue/White,Metal/Green,M,04-22-25 NOCA627,45.43076,-73.93818,224,30,127,STRAIGHT,NEW,10,20,100,0,0,0,0,saw it fly away
+10-15-2024,10:43,6,AMC,610,2651-73176,Blue/Blue,Metal/Yellow,F,10-15-24 NOCA 610,45.45922,-73.64066,NA,NA,NA,NA,NEW,8,19,100,0,0,0,0,"Bird was released without any issues, it flew well in a maple tree close to the gardens."
+10-16-2024,12:29,6,AMC,610,2651-73176,Blue/Blue,Metal/Yellow,F,10-16-24 NOCA 610,45.45885,-73.64362,207,40,263,STRAIGHT,NEW,9,15,80,0,0,0,0,Bird was located in the corner between the Loyola campus and some houses. Was blocked by the fence so couldn't get closer.
+10-17-2024,9:57,5,AMC,612,2991-40574,Blue/Yellow,Metal/Yellow,F,10-17-24 NOCA 612,45.46014,-73.64222,NA,NA,NA,NA,NEW,6,10,10,0,0,0,0,"Bird was released, took off and perched on a maple tree for a while before leaving. Spent approximately 7 minutes perched."
+10-18-2024,13:27,5,AMC,613,2651-73183,Blue/Red,Metal/Green,M,10-18-24 NOCA 613,45.45914,-73.64112,NA,NA,NA,NA,NEW,14,10,0,0,0,0,0,Bird released and took off past the building on the left of the release site.
+10-19-2024,10:35,6,AMC,610,2651-73176,Blue/Blue,Metal/Yellow,F,10-19-24 NOCA 610,45.45844,-73.64375,232,30,234,UP,NEW,11,14,0,0,0,0,0,"Bird was located in the same corner spot as last time, but the signal was better, still seemed to move so not too worried."
+10-24-2024,12:50,5,AMC,615,2651-73139,Red/Red,Metal/Yellow,F,10-24-24 NOCA 615-616,45.46016,-73.64217,NA,NA,NA,NA,NEW,10,7,30,0,0,0,0,"Both birds released, can't remember which one, but one flew to the right in a backyard, and the other went and perched in a tall tree on the left."
+10-24-2024,12:50,5,AMC,616,2651-73140,Blue/White,Metal/Yellow,F,10-24-24 NOCA 615-616,45.46016,-73.64217,NA,NA,NA,NA,NEW,10,7,30,0,0,0,0,"Both birds released, can't remember which one, but one flew to the right in a backyard, and the other went and perched in a tall tree on the left."
+10-25-2024,14:06,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,10-25-24 NOCA 610,45.45975,-73.64852,144,30,223,STRAIGHT,OLD,11,4,10,0,0,0,0,"Bird was in a different location from last time, near a kindergarten, seemed to be moving, was blocked by a fence."
+10-26-2024,9:34,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,10-26-24 NOCA 610,45.45894,-73.64966,190,30,232,STRAIGHT,OLD,6,22,40,0,0,0,0,Seems to be located in the backyard of apartment 5015
+10-26-2024,10:50,5,FPL,613,2651-73183,Blue/Red,Metal/Green,M,10-26-24 NOCA 613,45.45705,-73.63931,148,30,55,STRAIGHT,OLD,7,23,50,0,0,0,0,"Probability that the bird is dead because the signal is just as strong when pointed at the ground, to be reverified"
+10-27-2024,10:47,6,AMC,619,2651-73193,Red/Green,Metal/Yellow,F,10-27-24 NOCA 619,45.45904,-73.64039,NA,NA,NA,NA,NEW,5,24,100,0,0,0,0,Bird released and flew far away in the big house just beside the gardens. Went in the tall confiner.
+10-28-2024,8:09,5,FPL,613,2651-73183,Blue/Red,Metal/Green,M,10-28-24 NOCA 613,45.45712,-73.63923,178,30,222,GROUND,OLD,-3,4,0,0,0,0,0,"Found dead on its side in mulch under a young fir tree (about 2m) just on the other side of the fence in an open area next to the Loyola High School parking lot. Half eaten by worms, but no bones damaged. Appears to have been dead for some time, difficult to guess cause of death. Close to several buildings (concordia campus)."
+10-28-2024,9:20,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,10-28-24 NOCA 610,45.45954,-73.65041,145,30,180,STRAIGHT,OLD,-1,3,0,0,0,0,0,Seems to be located in a cut maple hedge between two houses
+10-28-2024,9:55,5,FPL,615,2651-73139,Red/Red,Metal/Yellow,F,10-28-24 NOCA 615,45.45982,-73.65393,145,40,150,STRAIGHT,OLD,0,3,0,0,0,0,0,"Seems to be behind the fence of house 5290, seems to be moving"
+10-29-2024,10:32,5,AMC,621,2651-73198,Blue/Green,Metal/Green,M,10-29-24 NOCA 621,45.46021,-73.64213,NA,NA,NA,NA,NEW,6,11,100,0,0,0,0,"Bird flew well, went low in bushes to the left side of house 4620 on St-Ignatius Street (last house at the end of the street)."
+10-30-2024,13:46,5,AMC,622,2651-73100,Red/White,Metal/Yellow,F,10-30-24 NOCA 622,45.45998,-73.64191,NA,NA,NA,NA,NEW,20,14,80,0,0,0,0,"Bird flew well, went in front lawn bushes near appartment 4635 on St-Ignatius Street."
+10-31-2024,10:06,6,AMC,624,2991-46002,Blue/Black,Metal/Green,M,10-31-24 NOCA 624,45.45918,-73.64111,NA,NA,NA,NA,NEW,18,21,10,0,0,0,0,"Bird was extremely agressive just before release (banged a lot in the box)... Flew well, but seemed really confused, first flew towards the center of campus, then perched on a window by the student housing near the gardens, then flew towards the newer buildings and perched in a maple tree."
+11-01-2024,11:50,5,FPL,621,2651-73198,Blue/Green,Metal/Green,M,11-01-24 NOCA 621,45.45991,-73.65392,173,20,220,GROUND,OLD,14,30,30,1,0,0,0,Seems to be in a spruce tree in front of house 4700
+11-01-2024,13:32,5,AMC,616,2651-73140,Blue/White,Metal/Yellow,F,11-01-24 NOCA 616,45.46088,-73.64035,250,20,245,STRAIGHT,NEW,14,34,50,0,0,0,0,"In bushes besides a fence... Point seems too good to be true, worth checking again for movement."
+11-02-2024,13:09,6,AMC,625,2991-46003,Yellow/Green,Metal/Yellow,F,11-02-24 NOCA 625,45.45937,-73.64039,NA,NA,NA,NA,NEW,6,9,100,0,0,0,0,Flew in the trees in the row just in front of the gardens.
+11-03-2024,10:05,6,AMC,613b,2991-46004,Yellow/Black,Metal/Yellow,F,11-03-24 NOCA 613B,45.4592664,-73.6406859,NA,NA,NA,NA,NEW,2,5,0,0,0,0,0,"GPS taken with phone as unit bugged... Bird was very chatty in the car, it flew well in the closest maple tree."
+11-03-2024,10:16,5,AMC,626,2991-46005,Yellow/White,Metal/Yellow,F,11-03-24 NOCA 626,45.460126,-73.6422147,NA,NA,NA,NA,NEW,3,5,0,0,0,0,0,"GPS taken with phone as unit bugged... Bird potentially injured, there was a bit of blood on the paper towel, but most probably irritation on legs, nothing major. Flew well and went to the left towards campus."
+11-04-2024,10:40,6,AMC,618b,2991-46007,Green/Green,Metal/Yellow,F,11-04-24 NOCA 618B,45.45941,-73.64059,NA,NA,NA,NA,NEW,5,10,100,0,0,0,0,"Bird flew well, went in tree row close to the gardens."
+11-04-2024,13:25,5,FPL,621,2651-73198,Blue/Green,Metal/Green,M,11-04-24 NOCA 621,45.46128,-73.64908,177,10,220,GROUND,OLD,8,14,100,1,0,0,0,"Seems to be located under a maple tree between two bloc (5120/5122), worth checking again for movement"
+11-04-2024,14:00,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,10-25-24 NOCA 610,45.46067,-73.65065,170,40,5,STRAIGHT,OLD,8,15,100,0,0,0,0,Seen flying in the backyard of house 5185
+11-04-2024,14:30,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,11-03-24 NOCA 626,45.45954,-73.65065,152,30,225,STRAIGHT,OLD,8,16,100,0,0,0,0,Seems to be located in the backyard of house 3444
+11-04-2024,15:58,6,FPL,618b,2991-46007,Green/Green,Metal/Yellow,F,11-04-24 NOCA 618B,45.45964,-73.64296,145,30,194,STRAIGHT,OLD,8,14,100,1,0,0,0,Seems to be located in the backyard of house 4660
+11-05-2024,9:19,5,AMC,628,2991-40579,Red/Red,Metal/Green,M,11-05-24 NOCA628,45.46014,-73.64214,NA,NA,NA,NA,NEW,12,11,100,1,0,0,0,"Bit rainy upon release, bird flew well and really high in trees on St-Ignatius Street. Bird was very active before release."
+11-08-2024,8:20,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,10-27-24 NOCA 619,45.4504637,-73.639878,148,30,300,STRAIGHT,OLD,9,27,90,0,0,0,0,Seems to be located in the backyard of house 35
+11-08-2024,11:10,5,FPL,628,2991-40579,Red/Red,Metal/Green,M,11-05-24 NOCA628,45.45055,-73.64001,152,30,20,STRAIGHT,OLD,11,30,100,0,0,0,0,Seems to be located in the backyard of house 4597
+11-08-2024,11:54,6,FPL,625,2991-46003,Yellow/Green,Metal/Yellow,F,11-02-24 NOCA 625,45.45906,-73.64099,196,10,100,GROUND,OLD,11,29,90,0,0,0,0,"Found dead between the small gardens of the Concordia campus and a building facade, his body had been entirely eaten. Looks like a collision."
+11-12-2024,9:10,6,AMC,633,2991-46010,Green/White,Metal/Green,M,11-12-24 NOCA 633,45.45941,-73.64059,NA,NA,NA,NA,NEW,3,21,10,0,0,0,0,"Bird flew well, followed the tree rows towards Sherbrook Street."
+11-13-2024,9:54,5,AMC,634,2991-46013,Black/White,Metal/Yellow,F,11-13-24 NOCA634,45.46013,-73.64192,NA,NA,NA,NA,NEW,1,13,0,0,0,0,0,"Flew well, moved from tree to tree on St-Ignatius."
+11-13-2024,14:03,5,AMC,638,????-?????,Brown/Red,Metal/Yellow,F,11-13-24 NOCA638,45.46012,-73.64206,NA,NA,NA,NA,NEW,5,9,0,0,0,0,0,"Flew well, went between 2 houses in cedar trees."
+11-15-2024,11:00,5,AMC,639,2991-46008,Brown/Blue,Metal/Yellow,F,11-15-24 NOCA639-642,45.46019,-73.6421,NA,NA,NA,NA,NEW,5,9,10,0,0,0,0,Too rushed to take comments but overall no birds had issues flying.
+11-15-2024,11:00,5,AMC,642,2991-46018,Brown/Yellow,Metal/Yellow,F,11-15-24 NOCA639-642,45.46019,-73.6421,NA,NA,NA,NA,NEW,5,9,10,0,0,0,0,Too rushed to take comments but overall no birds had issues flying.
+11-15-2024,11:08,6,AMC,643,2991-46019,Yellow/Yellow,Metal/Green,M,11-15-24 NOCA643-644,45.45938,-73.6406,NA,NA,NA,NA,NEW,5,9,10,0,0,0,0,Too rushed to take comments but overall no birds had issues flying.
+11-15-2024,11:08,6,AMC,644,2991-46020,Brown/Green,Metal/Yellow,F,11-15-24 NOCA643-644,45.45938,-73.6406,NA,NA,NA,NA,NEW,5,9,10,0,0,0,0,Too rushed to take comments but overall no birds had issues flying.
+11-15-2024,8:34,6,FPL,618b,2991-46007,Green/Green,Metal/Yellow,F,11-15-24 NOCA 618B,45.45108,-73.6369,177,30,15,UP,OLD,0,4,40,0,0,0,0,Seen flying with partner and feeding on vines (litteraly came to say hi) in small forest area next to house 155
+11-15-2024,9:04,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,11-15-24 NOCA 619,45.44993,-73.64029,145,40,334,UP,OLD,1,5,30,0,0,0,0,Seen flying with partner in direction of backyard of house 63
+11-15-2024,11:10,5,FPL,616,2651-73140,Blue/White,Metal/Yellow,F,11-15-24 NOCA 616,45.44981,-73.64026,153,30,320,STRAIGHT,OLD,5,10,30,0,0,0,0,"In cedar hedge behind the MAB-Mackay rehabilitation center, MAB site"
+11-15-2024,11:15,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,11-15-24 NOCA 626,45.45863,-73.63597,173,20,240,STRAIGHT,OLD,5,10,30,0,0,0,0,"Seen flying, followed by partner next to Concordia football field"
+11-15-2024,11:50,6,FPL,633,2991-46010,Green/White,Metal/Green,M,11-15-24 NOCA 633,45.4602778,-73.63972,140,40,47,STRAIGHT,OLD,6,10,20,0,0,0,0,"Located in backyard of house 3545, couldn't get a better signal on the other side"
+11-17-2024,11:00,5,FPL,642,2991-46018,Brown/Yellow,Metal/Yellow,F,11-17-24 NOCA 642,45.46224,-73.63931,135,40,208,STRAIGHT,OLD,6,11,20,0,0,0,0,"Couln't get a better signal, blocked by the fence both sides of the road"
+11-17-2024,13:10,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,11-17-24 NOCA 634,45.46042,-73.64082,141,30,90,STRAIGHT,OLD,8,11,90,0,0,0,0,Backyard of house 4515
+11-17-2024,14:00,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,11-17-24 NOCA 610,45.46145,-73.65112,148,30,200,STRAIGHT,OLD,9,10,100,0,0,0,0,Backyard of house 5250
+11-18-2024,12:00,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,11-18-24 NOCA 634,45.46093,-73.64028,150,30,212,STRAIGHT,OLD,9,17,100,0,0,0,0,Backyard of house 4540
+11-18-2024,12:45,6,FPL,644,2991-46020,Brown/Green,Metal/Yellow,F,11-18-24 NOCA 644,45.45804,-73.63354,114,50,129,STRAIGHT,OLD,9,18,70,0,0,0,0,"Autre côté du chemin de fer, 633, 626, 616 ont des réceptions à cette location"
+11-18-2024,13:10,5,FPL,616,2651-73140,Blue/White,Metal/Yellow,F,11-18-24 NOCA 616,45.45856,-73.63544,180,20,80,UP,OLD,9,18,40,0,0,0,0,"In cedar hedge behind the MAB-Mackay rehabilitation center, MAB site, same as last time"
+11-18-2024,13:20,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,11-18-24 NOCA 626,45.45892,-73.63644,161,20,180,UP,OLD,9,18,40,0,0,0,0,"6 cardinals in the same tree, in front of the MAB-Mackay rehabilitation center, MAB site"
+11-18-2024,13:25,6,FPL,633,2991-46010,Green/White,Metal/Green,M,11-18-24 NOCA 633,45.45898,-73.63644,158,30,280,STRAIGHT,OLD,9,18,20,0,0,0,0,"Same as 626. 616, 626 and 633 are sharing the same spot with apparently 4 others (not our birds)"
+11-18-2024,14:30,5,FPL,621,2651-73198,Blue/Green,Metal/Green,M,11-18-24 NOCA 621,45.46477,-73.65583,104,50,300,STRAIGHT,OLD,10,18,30,0,0,0,0,"meilleur signal que j'ai pu avoir sur chemin Thyme, sur la voie ferrée"
+11-18-2024,15:13,6,FPL,618b,2991-46007,Green/Green,Metal/Yellow,F,11-18-24 NOCA 618B,45.46176,-73.64972,149,30,28,STRAIGHT,OLD,10,18,20,0,0,0,0,Backyard of house 5175
+11-24-2024,8:50,6,FPL,643,2991-46019,Yellow/Yellow,Metal/Green,M,11-24-24 NOCA 643,45.46637,-73.64522,118,40,240,STRAIGHT,OLD,2,25,50,0,0,0,0,Je n'ai pas pu avoir un meilleur signal car situé derrière 2 blocs app (3158) trop long qui bloquaient le signal par des interférences
+11-24-2024,9:50,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,11-24-24 NOCA 610,45.46122,-73.65044,140,40,230,STRAIGHT,OLD,3,26,100,0,0,0,0,Backyard of house 5210
+11-29-2024,8:00,6,FPL,644,2991-46020,Brown/Green,Metal/Yellow,F,11-29-24 NOCA 644,45.45719,-73.63316,153,40,340,UP,OLD,0,9,90,0,0,0,0,Got the signal and lost it almost instantly (probably because of the train coming)
+11-29-2024,9:15,5,FPL,616,2651-73140,Blue/White,Metal/Yellow,F,11-29-24 NOCA 616,45.4588,-73.63398,148,30,42,UP,OLD,1,11,100,0,0,0,0,"Couldn't get further, blocked by ciment wall but the bird was right behind it"
+11-29-2024,10:00,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,11-29-24 NOCA 626,45.45729,-73.63313,144,40,290,UP,OLD,1,13,100,0,0,0,0,"The birds (644, 642, 626 and 616) seemed to be following each other, 633 diconnected from the group, are located in pines but i am blocked by the fence of a parking and the fence of the railways in that location. Also, the signal seems really hard to get for whatever reason, I was pointing directly in their direction (was following their movements and seeing their exact position with my eyes) just next to the trees, but I couln't get a better signal than 144"
+11-29-2024,10:15,5,FPL,642,2991-46018,Brown/Yellow,Metal/Yellow,F,11-29-24 NOCA 642,45.45729,-73.63313,142,40,290,UP,OLD,1,13,100,0,0,0,0,Same as 626
+11-29-2024,10:30,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,11-29-24 NOCA 619,45.44995,-73.6402,142,40,350,STRAIGHT,OLD,2,14,100,0,0,0,0,Backyard of house 59
+11-29-2024,11:30,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,11-29-24 NOCA 634,45.46087,-73.64047,140,40,190,UP,OLD,2,15,100,0,0,0,0,Backyard of house 7005
+11-29-2024,12:32,6,FPL,633,2991-46010,Green/White,Metal/Green,M,11-29-24 NOCA 633,45.46194,-73.63917,159,30,9,UP,OLD,3,15,100,0,0,0,0,Backyard of house 4500 in a biiig tree
+12-01-2024,9:20,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,12-01-24 NOCA 610,45.46083,-73.65139,181,40,40,STRAIGHT,OLD,-2,17,100,0,0,0,0,Food party in feeders of house 5219 with many other bird species
+12-06-2024,8:30,5,FPL,616,2651-73140,Blue/White,Metal/Yellow,F,12-06-24 NOCA 616,45.460908,-73.65138,169,40,323,STRAIGHT,OLD,-8,24,0,0,5,1,0,"NOT in cedar hedge behind the MAB-Mackay rehabilitation center, MAB site, closer to the fence"
+12-06-2024,9:01,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,12-06-24 NOCA 619,45.45832,-73.63518,171,40,167,STRAIGHT,OLD,-8,24,0,0,5,1,0,seen in trees in dront of house 1321
+12-06-2024,9:51,5,FPL,642,2991-46018,Brown/Yellow,Metal/Yellow,F,12-06-24 NOCA 642,45.45763,-73.63354,140,40,52,UP,OLD,-8,24,30,0,5,1,0,"NONE, same as last time"
+12-06-2024,10:30,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,12-06-24 NOCA 626,45.45807,-73.63351,148,40,167,UP,OLD,-7,23,30,0,5,1,0,"NONE, same as last time"
+12-06-2024,11:30,6,FPL,633,2991-46010,Green/White,Metal/Green,M,12-06-24 NOCA 633,45.46212,-73.64111,144,40,26,STRAIGHT,OLD,-6,22,80,0,5,1,0,In feeders of house 4597
+12-06-2024,11:50,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,12-06-24 NOCA 634,45.4623,-73.64194,143,40,86,STRAIGHT,OLD,-6,22,80,0,5,1,0,Backyard of house 4634
+12-08-2024,9:15,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,12-08-24 NOCA 610,45.46108,-73.64972,171,40,67,STRAIGHT,OLD,1,16,100,0,12,1,0,"Backyard of house 5175, not alone, seen flying"
+12-08-2024,9:50,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,12-08-24 NOCA 634,45.46039,-73.64088,145,30,62,STRAIGHT,OLD,1,16,100,0,12,1,0,Backyard of house 4515
+12-08-2024,11:43,6,FPL,633,2991-46010,Green/White,Metal/Green,M,12-08-24 NOCA 633,45.4626,-73.64027,147,40,90,STRAIGHT,OLD,2,17,90,0,12,1,0,Backyard of house 4570
+12-13-2024,10:30,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,12-13-24 NOCA 610,45.46085,-73.64933,154,40,20,UP,OLD,-7,19,40,0,0,0,0,Backyard of house 5155
+12-13-2024,10:50,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,12-13-24 NOCA 634,45.46233,-73.64196,147,40,215,STRAIGHT,OLD,-7,19,40,0,0,0,0,Backyard of house 4570
+12-13-2024,11:00,6,FPL,633,2991-46010,Green/White,Metal/Green,M,12-13-24 NOCA 633,45.46235,-73.64191,140,30,215,STRAIGHT,OLD,-7,19,40,0,0,0,0,"Backyard of house 4570, the lady told me she had a feeder in her backyard"
+12-13-2024,12:05,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,12-13-24 NOCA 626,45.45893,-73.63639,168,40,200,UP,OLD,-5,22,30,0,0,0,0,"NONE, same as last time"
+12-13-2024,12:55,5,FPL,616,2651-73140,Blue/White,Metal/Yellow,F,12-13-24 NOCA 616,45.45766,-73.63363,141,40,2,UP,OLD,-5,22,30,0,0,0,0,"Got lucky because 616 moved across the railways just seconds after I got that reception (probably because he haerd me or saw me coming, altough 616 and 626 are constantly moving from side to side of the railways. Didn't had any reception of 642 or 644 at all."
+12-13-2024,15:00,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,12-13-24 NOCA 619,45.44893,-73.6398,102,60,190,GROUND,OLD,-4,20,50,0,0,0,0,"Passed across the railways, had it and lost it in the neighborhood, the problem is that I cannot get to the other side because of the highway, 2nd time I loose it in that direction. Waited around 10min, didn't came back"
+12-18-2024,8:40,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,12-18-24 NOCA 610,45.46175,-73.65148,171,40,73,UP,OLD,1,11,100,0,0,0,0,Flew in a tree with partner in the backyard of appartment 527
+12-18-2024,9:10,6,FPL,633,2991-46010,Green/White,Metal/Green,M,12-18-24 NOCA 633,45.46208,-73.64119,141,40,46,STRAIGHT,OLD,2,11,100,0,0,0,0,Seen flying with other birds around in the backyard of house 4597
+12-18-2024,9:15,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,12-18-24 NOCA 634,45.46212,-73.64165,140,40,216,STRAIGHT,OLD,2,11,100,0,0,0,0,"Backyard house 4624, flew away quickly"
+12-18-2024,10:37,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,12-18-24 NOCA 619,45.45062,-73.64027,142,40,65,STRAIGHT,OLD,3,13,100,0,0,0,0,"Backyard house 19, seems almost out of reach from both sides for a long time"
+12-18-2024,11:10,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,12-18-24 NOCA 626,45.45069,-73.64034,154,40,205,STRAIGHT,OLD,3,13,100,0,0,0,0,With other cardinals (six of seven) dans une haie de cèdre next to the waytrails
+12-18-2024,11:15,5,FPL,616,2651-73140,Blue/White,Metal/Yellow,F,12-18-24 NOCA 616,45.45686,-73.63503,149,40,205,STRAIGHT,OLD,3,13,100,0,0,0,0,With 626
+12-20-2024,10:32,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,12-20-24 NOCA 610,45.46132,-73.6504,140,40,61,STRAIGHT,OLD,-8,13,100,0,"0,7",1,0,Backyard house 5215
+12-20-2024,11:05,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,12-20-24 NOCA 634,45.46154,-73.64184,141,40,69,STRAIGHT,OLD,-8,13,100,0,"0,7",1,0,"Backyard house 4605, seen with other cardinals"
+12-20-2024,11:30,6,FPL,633,2991-46010,Green/White,Metal/Green,M,12-20-24 NOCA 633,45.46367,-73.64296,140,40,200,STRAIGHT,OLD,-7,14,100,0,"0,7",1,0,Backyard house 4856
+12-20-2024,12:30,5,FPL,616,2651-73140,Blue/White,Metal/Yellow,F,12-20-24 NOCA 616,45.45822,-73.63502,179,40,345,STRAIGHT,OLD,-7,13,100,0,"0,7",1,0,"With other cardinals (five or six), in cedar hedge behind the MAB-Mackay rehabilitation center, MAB site"
+12-20-2024,12:30,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,12-20-24 NOCA 626,45.4582,-73.63503,148,40,345,STRAIGHT,OLD,-7,13,100,0,"0,7",1,0,"With other cardinals (five or six), in cedar hedge behind the MAB-Mackay rehabilitation center, MAB site, with 616"
+12-26-2024,12:30,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,12-26-24 NOCA 619,45.44957,-73.63894,144,40,15,UP,OLD,-8,4,0,0,23,1,0,"Perched high up in a tree, seen flying with partner"
+12-26-2024,13:09,5,FPL,616,2651-73140,Blue/White,Metal/Yellow,F,12-26-24 NOCA 616,45.45678,-73.63608,155,40,189,GROUND,OLD,-8,4,0,0,23,1,0,Sides of waytrails with others (NOT 626 as usual)
+12-26-2024,14:07,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,12-26-24 NOCA 626,45.46061,-73.64007,143,40,155,UP,OLD,-8,4,80,0,23,1,0,Backyard house 4540 Coronation
+12-26-2024,14:23,6,FPL,633,2991-46010,Green/White,Metal/Green,M,12-26-24 NOCA 633,45.46344,-73.6424,143,40,216,STRAIGHT,OLD,-8,4,100,0,23,1,0,Backyard of Montreal playschool Daycare centre on Mariette street
+12-26-2024,14:35,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,12-26-24 NOCA 634,45.46343,-73.64241,141,40,32,STRAIGHT,OLD,-8,4,100,0,23,1,0,Backyard app 4625 Coronation (4516 has a feeder)
+12-26-2024,14:55,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,12-26-24 NOCA 610,45.46115,-73.65002,169,30,50,STRAIGHT,OLD,-8,4,30,0,23,1,0,Backyard 5185 O'Bryan
+12-31-2024,8:47,6,AMC,610,2651-73176,Blue/Blue,Metal/Yellow,F,12-31-2024 NOCA610,45.46156,-73.65118,204,40,26,STRAIGHT,NEW,2,15,100,0,0,0,0,"Bird was in a backyard, heard a lot of birds and cardinals moving around."
+12-31-2024,9:12,6,AMC,633,2991-46010,Green/White,Metal/Green,M,12-31-24 NOCA633,45.46284,-73.64234,208,40,350,STRAIGHT,NEW,2,15,100,0,0,0,0,"Bird was in a backyard, heard some cardinals chirps."
+12-31-2024,9:24,5,AMC,634,2991-46013,Black/White,Metal/Yellow,F,12-31-24 NOCA634,45.46169,-73.64207,200,40,40,STRAIGHT,NEW,3,15,100,0,0,0,0,"Bird was in a backyard, neighbours had bird feeders. Heard and saw multiple cardinals flying around between these houses."
+12-31-2024,9:39,5,AMC,626,2991-46005,Yellow/White,Metal/Yellow,F,12-31-24 NOCA626,45.46067,-73.63933,244,20,42,GROUND,NEW,3,14,100,0,0,0,0,Bird detection was suspicious... Came from a corner with garbage bins and fence. After taking the point the signal seemed to have moved...? Worth paying attention to!
+12-31-2024,10:17,5,AMC,616,2651-73140,Blue/White,Metal/Yellow,F,12-31-24 NOCA616,45.45783,-73.63399,214,30,180,GROUND,NEW,3,14,100,0,0,0,0,Bird was detected in the ditch near the train tracks... Was worried it died but after taking the point the seignal seemed to have moved further...? Also worth looking into!
+01-04-2025,11:48,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,01-04-25 NOCA 610,45.46101,-73.65145,142,40,78,STRAIGHT,OLD,-10,20,100,0,0,0,0,Backyard 5219 West Broadway
+01-04-2025,12:05,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,01-04-25 NOCA 634,45.46093,-73.65144,140,40,50,STRAIGHT,OLD,-9,20,100,0,0,0,0,Bird was in a small tree in backyard of house 4605 (feeder next to the tree)
+01-04-2025,12:43,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,01-04-25 NOCA 626,45.46058,-73.63937,157,30,212,STRAIGHT,OLD,-9,20,100,0,0,0,0,Backyard 4460 Coronation (même signal de l'autre côté sur Bellmore = S154 à G30)
+01-04-2025,13:09,5,FPL,616,2651-73140,Blue/White,Metal/Yellow,F,01-04-25 NOCA 616,45.45845,-73.63303,180,20,99,STRAIGHT,OLD,-9,20,100,0,0,0,0,Backyard 2370 on Blvd de Maisonneuve Ouest (LOTS of birds around.. 2 autres groupes de deux autres espèces différentes)
+01-04-2025,14:15,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,01-04-25 NOCA 619,45.45037,-73.63975,142,40,102,STRAIGHT,OLD,-9,20,100,0,0,0,0,Backyard 39 Av Brynmor
+01-07-2025,11:50,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,01-07-25 NOCA 610,45.46095,-73.64984,146,40,211,STRAIGHT,OLD,-7,22,100,0,4,1,0,Backyard 5150 O'Bryan
+01-07-2025,12:00,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,01-07-25 NOCA 634,45.46169,-73.64213,141,40,67,STRAIGHT,OLD,-7,22,100,0,4,1,0,Backyard 4515
+01-07-2025,12:15,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,01-07-25 NOCA 626,45.46025,-73.63988,145,40,46,STRAIGHT,OLD,-7,22,100,0,4,1,0,Perched in cedar tree in front of garage of house 3555 next to 3545 (lots of feeders around)
+01-07-2025,14:38,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,01-07-25 NOCA 619,45.45034,-73.63976,140,40,45,UP,OLD,-6,23,100,0,4,1,0,Group of cardinal flying (5-6) in backyard o house 39 Av Brynmor (hard to get a strong signal)
+01-14-2025,11:17,5,AMC,626,2991-46005,Yellow/White,Metal/Yellow,F,01-14-25 NOCA626,45.46012,-73.63943,220,30,194,STRAIGHT,NEW,-4,25,100,0,NA,NA,NA,"Bird was located near an appartment block, just besides what looks like a vacant lot. Could hear chickadees and cardinals in backyard."
+01-14-2025,11:46,5,AMC,634,2991-46013,Black/White,Metal/Yellow,F,01-14-25 NOCA634,45.46139,-73.64127,183,40,18,STRAIGHT,NEW,-4,24,100,0,NA,NA,NA,"Bird moving quite a lot, finally located in a house backyard close to its last data point."
+01-14-2025,12:06,6,AMC,618b,2991-46007,Green/Green,Metal/Yellow,F,01-14-25 NOCA618B,45.46629,-73.64233,191,40,25,STRAIGHT,NEW,-4,24,100,0,NA,NA,NA,"Bird close to the last data point, looked for it around 10:00 am, didn't get anything, only got the point when I came back to the car."
+01-11-2025,9:50,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,01-11-25 NOCA 610,45.46088,-73.64884,157,30,33,UP,OLD,-8,6,100,0.2,4,1,0,"Lots of chirping, other species around, about 7-8 males at the same spot (!)"
+01-11-2025,10:05,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,01-11-25 NOCA 626,45.46059,-73.64002,145,40,134,STRAIGHT,OLD,-7,5,100,0.2,4,1,0,pointing towards feeder of ouse 3561 Bellemore from Terrebonne
+01-11-2025,10:36,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,01-11-25 NOCA 634,45.46199,-73.64105,140,40,254,STRAIGHT,OLD,-8,6,100,0.2,4,1,0,"BY 4586, lots of movements"
+01-11-2025,11:50,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,01-11-25 NOCA 619,45.45054,-73.64223,159,20,335,UP,OLD,-6,7,100,0.2,4,1,0,seen in tree with oter cardinals (male and female) chirping +mésanges side of Avon road close to light intersection
+01-13-2025,13:25,6,FPL,618b,2991-46007,Green/Green,Metal/Yellow,F,01-13-25 NOCA 618B,45.46629,-73.64201,159,40,54,STRAIGHT,OLD,-1,8,100,0.2,6,1,0,BY4895 Montclair (movement in cedar tree)
+01-13-2025,14:15,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,01-13-25 NOCA 626,45.46021,-73.64041,148,40,135,STRAIGHT,OLD,-1,8,100,0.7,6,1,0,Same as 11JAN for this bird
+01-15-2025,10:50,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,01-15-25 NOCA 619,45.4498,-73.63984,180,20,112,UP,OLD,-8,16,100,0,9,1,0,house 56 (perched in a tree in front of the house) Courtney Dr
+01-15-2025,11:20,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,01-15-25 NOCA 610,45.46093,-73.64945,168,30,35,UP,OLD,-8,16,100,0,9,1,0,same as last reception
+01-18-2025,10:20,6,FPL,618b,2991-46007,Green/Green,Metal/Yellow,F,01-18-25 NOCA 618B,45.46624,-73.64229,148,40,54,STRAIGHT,OLD,1,17,100,0,6,1,0,4895 Av Montclair in backyard to check next time
+01-18-2025,11:00,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,01-18-25 NOCA 634,45.46213,-73.64132,146,40,140,UP,OLD,2,18,100,0,6,1,0,"came from BY 4600, perched in a tree on side of street and went in BY of house 4597 Mayfair, group 6-8, looots of movements"
+01-18-2025,11:20,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,01-18-25 NOCA 626,45.46015,-73.63821,150,40,180,STRAIGHT,OLD,2,18,100,0,6,1,0,BY 4360 Coronation
+01-18-2025,12:50,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,01-18-25 NOCA 619,45.44939,-73.6392,101,50,159,STRAIGHT,OLD,3,18,30,0,6,1,0,"Sur la voir ferrée, pas de meilleur signal après 30-40 min dans le secteur, derrière app68"
+01-25-2025,11:29,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,01-25-25 NOCA 610,45.46036,-73.64994,148,30,12,STRAIGHT,OLD,-11,6,90,0,8,1,0,"BY of 5145 on Westbroadway, most likely in cedars"
+01-25-2025,11:56,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,01-25-25 NOCA 634,45.46158,-73.6419,151,40,38,STRAIGHT,OLD,-10,6,50,0,8,1,0,from BY 4605 to 4595
+01-25-2025,12:19,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,01-25-25 NOCA 626,45.46025,-73.63988,163,20,32,GROUND,OLD,-10,6,90,0,8,1,0,BY 3545 Bellemore most likely right behind the fence
+01-25-2025,14:30,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,01-25-25 NOCA 619,45.45041,-73.64,157,20,200,STRAIGHT,OLD,-7,7,100,0,8,1,0,in small tree in front of 32 Brymor
+01-27-2025,13:30,6,FPL,619,2651-73193,Red/Green,Metal/Yellow,F,01-27-25 NOCA 619,45.44927,-73.63944,140,40,160,STRAIGHT,OLD,1,37,100,0,7,1,0,Waytrails at first but then moved closer to 78 app
+01-27-2025,14:20,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,01-27-25 NOCA 626,45.46052,-73.63918,159,30,180,STRAIGHT,OLD,1,40,100,0,7,1,0,cedars BY 4450 Coronation
+01-27-2025,14:57,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,01-27-25 NOCA 634,45.4628,-73.64056,142,40,210,STRAIGHT,OLD,1,40,100,0,7,1,0,BY 4600
+01-27-2025,15:24,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,01-27-25 NOCA 610,45.46111,-73.65006,159,40,90,STRAIGHT,OLD,1,40,100,0,7,1,0,O'Bryan 5185
+02-05-2025,11:50,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,02-05-25 NOCA 626,45.46021,-73.63958,149,30,50,STRAIGHT,OLD,-14,15,0,0,17,1,0,BY 3525 Av.Bellemore
+02-05-2025,12:10,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,02-05-25 NOCA 634,45.46199,-73.64059,156,30,36,STRAIGHT,OLD,-14,15,0,0,17,1,0,BY 4557 pine tree (movement)
+02-05-2025,12:50,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,02-05-25 NOCA 610,45.46118,-73.65046,165,30,250,STRAIGHT,OLD,-14,15,0,0,17,1,0,cedars BY 5200 O'Bryan
+02-08-2025,13:38,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,02-08-25 NOCA 610,45.46121,-73.6504,143,40,222,STRAIGHT,OLD,-5,13,20,0,19,1,0,"BY 5200 O'Bryan in cedars (same as last time, TO CHECK)"
+02-08-2025,14:00,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,02-08-25 NOCA 626,45.46054,-73.63918,170,20,230,STRAIGHT,OLD,-5,13,50,0,19,1,0,cedars BY 4450 Coronation (same as last time with strong reception TO CHECK)
+02-08-2025,14:15,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,02-08-25 NOCA 634,45.46256,-73.64005,149,30,231,STRAIGHT,OLD,-5,13,10,0,19,1,0,cedars BY 4560 Mariette
+02-10-2025,12:21,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,02-10-25 NOCA 610,45.46125,-73.6504,149,30,220,STRAIGHT,OLD,-7,14,10,0,22,1,0,"cedars BY 5210 O'Bryan, with others"
+02-10-2025,12:50,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,02-10-25 NOCA 626,45.46054,-73.63912,157,20,230,STRAIGHT,OLD,-7,14,20,0,22,1,0,"cedars BY 4450 Coronation knocked on door, no response, TO CHECK"
+02-10-2025,13:15,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,02-10-25 NOCA 634,45.4626,-73.64028,148,30,150,STRAIGHT,OLD,-7,14,20,0,22,1,0,cedars 4570 Mariette
+02-12-2025,12:50,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,02-12-25 NOCA 610,45.4607,-73.6502,157,30,34,STRAIGHT,OLD,-12,11,0,0,"19,8",1,0,cedars west broadway (between 5135 and 5145)
+02-12-2025,13:10,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,02-12-25 NOCA 634,45.46276,-73.64053,141,40,172,STRAIGHT,OLD,-12,11,0,0,"19,8",1,0,BY Mariette 4600
+02-12-2025,13:30,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,02-12-25 NOCA 626,45.46022,-73.63978,143,40,34,STRAIGHT,OLD,-12,11,0,0,"19,8",1,0,BY Bellmore 3535
+02-15-2025,14:25,5,FPL,626,2991-46005,Yellow/White,Metal/Yellow,F,02-15-25 NOCA 626,45.46026,-73.63987,140,40,50,STRAIGHT,OLD,-7,13,100,0,31,2,0,3555 Bellemore cedars
+02-19-2025,14:00,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,02-19-25 NOCA 610,45.46049,-73.65027,145,30,54,STRAIGHT,OLD,-10,20,0,0,46,2,0,BY 5167 West Broadway
+02-19-2025,14:46,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,02-19-25 NOCA 634,45.4611,-73.63974,161,30,350,STRAIGHT,OLD,-10,20,0,0,46,2,0,BY 6969 Rue Terrebonne
+02-21-2025,10:48,6,AMC,610,2651-73176,Blue/Blue,Metal/Yellow,F,NA,45.4604521,-73.6501031,190,40,36,UP,NEW,-8,17,80,0,NA,NA,NA,Heard cardinals chirp in cedar bushes. Didn't have GPS or snow measurement stick on hand. GPS recorded with phone.
+02-21-2025,11:21,5,AMC,634,2991-46013,Black/White,Metal/Yellow,F,NA,45.460821,-73.6394467,230,30,10,STRAIGHT,NEW,-7,18,30,0,NA,NA,NA,"Bird feeders in the backyard, heard cardinals and sparrows. GPS point taken with phone."
+02-22-2025,9:08,6,AMC,610,2651-73176,Blue/Blue,Metal/Yellow,F,NA,45.4605429,-73.6503643,231,30,44,STRAIGHT,NEW,-12,13,0,0,NA,NA,NA,Saw the bird flying in a pair. Hanging out in bushes between 2 houses. Point taken with phone.
+02-22-2025,9:48,5,AMC,634,2991-46013,Black/White,Metal/Yellow,F,02-22-2025 NOCA634,45.46231,-73.63926,182,50,203,STRAIGHT,NEW,-10,13,0,0,NA,NA,NA,"Not a good point, but bird is hanging out between 2 streets and the yard area is very large. Still around same area."
+03-01-2025,11:53,6,AMC,610,2651-73176,Blue/Blue,Metal/Yellow,F,03-01-25 NOCA 610,45.46036,-73.64991,210,30,43,STRAIGHT,NEW,2,24,100,10,NA,NA,NA,"Heard cardinals chirp, again coming from cedars between two houses. Talked to a lady and she mentioned that cardinals were super abundant in her backyard. Didn't have measuring stick for snow. It was snowing about 1 cm or 10 mm of snow while tracking."
+03-01-2025,12:09,5,AMC,634,2991-46013,Black/White,Metal/Yellow,F,03-01-25 NOCA634,45.46044,-73.64085,210,30,62,STRAIGHT,NEW,2,26,100,10,NA,NA,NA,"Heard and saw cardinals (probably ours but couldn't confirm). They are hanging out in the yard, lots of cedar trees and potentially feeders (fence prevented from seeing). Didn't have measuring stick for snow.It was snowing about 1 cm or 10 mm of snow while tracking."
+03-04-2025,11:57,6,AMC,610,2651-73176,Blue/Blue,Metal/Yellow,F,03-04-25 NOCA 610,45.46047,-73.65009,198,40,320,STRAIGHT,NEW,2,11,100,0,NA,NA,NA,"In cedars, saw a group of 5-6 cardinals, probably including 610, no snow measurement stick."
+03-04-2025,12:20,5,AMC,634,2991-46013,Black/White,Metal/Yellow,F,03-04-25 NOCA634,45.46121,-73.64063,197,40,44,STRAIGHT,NEW,2,11,100,0,NA,NA,NA,"In cedars between houses, heard some cardinal chirps, no snow measurement stick."
+03-06-2025,9:00,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,03-06-25 NOCA 610,45.4604,-73.65017,147,40,30,STRAIGHT,OLD,3,23,100,"0,1",24,2,0,BY WestBroadway between 5145-5155
+03-06-2025,9:30,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,03-06-25 NOCA 634,45.46159,-73.64001,154,30,243,STRAIGHT,OLD,3,23,100,"0,1",24,2,0,"BY 6951 Terrebonne from Av Mayfair seen with other cardinals/other species, lots of chirps, FEEDER"
+03-08-2025,12:00,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,03-08-25 NOCA 634,45.46242,-73.64005,146,30,240,STRAIGHT,OLD,-7,30,60,0,22,4,0,BY 4550 Mariette
+03-08-2025,13:00,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,03-08-25 NOCA 610,45.46047,-73.6503,141,40,30,STRAIGHT,OLD,-7,30,50,0,22,4,0,"Westbroadway, same spot as usual"
+03-12-2025,12:00,5,FPL,634,2991-46013,Black/White,Metal/Yellow,F,03-12-25 NOCA 634,45.46152,-73.64014,160,30,214,STRAIGHT,OLD,-4,7,0,0,12,5,0,BY 6561 de Terrebonne from Mayfair in FEEDER other species around
+03-12-2025,13:39,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,03-12-25 NOCA 610,45.45907,-73.65459,169,20,155,STRAIGHT,OLD,-3,4,30,0,12,5,0,"seen with partner, different location as usual, lots of chirps and birds around (feeder?) BY app 5287 Connaught from Chester also got it in front of 5360 Connaught at S140 G40, where lots of birds also around"
+03-19-2025,13:52,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,03-19-25 NOCA 610,45.46159,-73.63998,170,20,230,STRAIGHT,OLD,14,15,20,0,0,0,0,same spot as 634 last few detection feeder voir D124 (6561 de Terrebonne from Mayfair)
+03-19-2025,14:12,5,FPL,639,2991-46008,Brown/Blue,Metal/Yellow,F,03-19-25 NOCA 639,45.46039,-73.64078,146,30,35,UP,OLD,14,15,20,0,0,0,0,"lots of movements, BY 4515 Av Bellmore lots of chirps"
+03-22-2025,11:15,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,03-22-25 NOCA 610,45.46085,-73.64041,193,20,235,STRAIGHT,OLD,7,11,10,0,0,0,0,"lots of movements, lots of cardinals around, bird was right in front of me in cedars BY 7005 Rue de Terrebonne"
+03-26-2025,10:00,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,03-26-25 NOCA 610,45.46087,-73.6404,168,20,215,STRAIGHT,OLD,2,16,90,0,0,0,0,BY 6561 de Terrebonne from Mayfair in FEEDER other species around
+03-29-2025,11:05,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,03-29-25 NOCA 610,45.46089,-73.64034,167,20,235,STRAIGHT,OLD,-2,16,100,0,1,0,0,BY 7005 Rue de Terrebonne
+04-02-2025,10:00,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,04-02-25 NOCA 610,45.46103,-73.64039,146,30,65,UP,OLD,-2,10,0,0,0,0,0,"In pine tree at corner of streets Coronation x Terrebonne, lots of movements"
+04-09-2025,16:15,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,04-02-25 NOCA 610,45.45855,-73.65434,140,40,220,STRAIGHT,OLD,2,21,20,0,0,0,0,"5272 Connaught, best I can do, was moving a LOT"
+04-12-2025,13:34,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,04-02-25 NOCA 610,45.45775,-73.65402,144,40,42,STRAIGHT,OLD,10,12,90,0,0,0,0,"337 Av. Brock. LOTS of chirps around, mésanges, étourneaux, cardinaux"
+04-18-2025,16:06,6,FPL,610,2651-73176,Blue/Blue,Metal/Yellow,F,04-02-25 NOCA 610,45.45787,-73.65451,144,40,35,STRAIGHT,OLD,14,14,100,0,0,0,0,same as last time
