@@ -16,6 +16,7 @@ library(geosphere)
 # =============================================================================================== #
 # Load the raw data file.
 noca_2223 <- read.csv("00_raw_data/noca_2022-2023_raw.csv")
+print(noca_2223)
 
 # Fix the date format for R to recognize it as dd/mm/yyyy.
 noca_2223$Date <- as.Date(noca_2223$Date, format = "%d/%m/%Y")
