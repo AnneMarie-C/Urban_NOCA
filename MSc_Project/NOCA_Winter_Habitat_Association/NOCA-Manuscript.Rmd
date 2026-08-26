@@ -1,0 +1,104 @@
+---
+## I have commented out the default YAML "title" and removed the author and date
+## info as I don't really want them to appear on the title page.
+
+# title: "NOCA Project Manuscript Template"
+
+# This sets up the format to match most journal requirements or 1" margins
+# and 12pts Times New Roman font. The catch is that to specify the font
+# You have to use the xelatex lates_engine. Also important to note, most
+# journals need Word files (or Latex) for copy editing. You can simply
+# comment out lines (20, 21, 23, 24 and 25) and uncomment the
+# word_document output on line 29.
+#
+geometry: margin=1in
+jeader-includes:
+  - \usepackage{setspace}
+  - \doublespacing
+  - \linenumbers
+  - \usepackage{float}            # This controls the placement of images in PDF files
+(allows fig.po = 'H')
+- \usepackage{fontspec}           # Can only be used with xelatex output.
+- \setmainfont{Times New Roman}   # Can only be used with xelatex output.
+
+output:
+  pdf_document:
+    latex_engine: xelatex
+## Other options are:
+# output: pdf_document
+# output: html_document
+# output: word_document
+
+## Specify your csl here. You can use local or remote
+## sources of csl files but local is better.
+## below are two good sources of csl files
+## https://github.com/citation-style-language/styles
+## https://www.zotero.org/styles
+
+# csl : https://raw.githubusercontent.com/citation-style-language/styles/master/ecology
+-letters.csl
+# csl : https://www.zotero.org/styles/ecology-letters
+csl: "../references/ecology-letters.csl"
+# I've included a Nature CSL file so you can see how easy it is to change citation style.
+# csl: "../references/nature.csl"
+
+# The .bib file allows you to add citations without Zotero and to share your
+# library with co-authors so that everyone has the same list of potential
+# references. Co-authors can just add new entries to the .bib file if they think
+# a citation is relevant. You will know it is setup correctly because you will
+# be able to select your references as you type in "Visual" mode.
+bibliography: ["../references/my-library.bib", "../references/grateful-refs.bib"]
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+# include=FALSE - prevents CODE and RESULTS from appearing in output. 
+# echo=FALSE - just prevents CODE from appearing in results.
+
+knitr::opts_chunk\$set
+# I like to put all of my library calls here, each on a separate line. Chaining
+# or "listing" is bad form. Why? It raises the barrier to understanding by
+# making things more complicated. The KISS principle is best when writing code that
+# you expect others to look at e.g.:
+# my_packages \<- c("dplyr", "mice", "stringr")
+# Create a vector of packages.
+# lapply(my_packages, require, character.only = TRUE)
+# Load multiple packages.
+
+library(tidyverse)
+library(palmerpenguins)
+library(GGally)
+library(kableExtra)
+library(grateful)
+
+# This bit of code gets all the packages associated with this project and stores
+
+# the results as a .bib file in the out.dir
+
+get_pkgs_info(out.dit = "../references/")
+```
+
+**Title**: Cardinals on the go! Movements of the Northern Cardinal (*Cardinali cardinalis*) across urban green spaces in winter.
+
+Abstract
+
+# Introduction
+
+# Methods
+
+$$
+e = mc2
+$$
+
+# Results
+
+# Discussion
+
+# References
+
+# Tables
+
+# Figure captions
+
+# Figures
+
+# Appendices
