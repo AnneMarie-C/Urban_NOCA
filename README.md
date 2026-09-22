@@ -8,7 +8,7 @@ Analysis code for both chapters of an MSc thesis on winter survival and urban gr
 ### Chapter 1
 Northern cardinals were radio-tracked across three sites spanning an urbanization gradient in Montreal to test how habitat selection scale and habitat associations shift with urbanization intensity. This code:
 
-- Estimates the scale of effect of habitat variables on cardinal space use using generalized additive models (GAMs), comparing model fit across a range of buffer radius
+- Estimates the scale of effect of habitat variables on cardinal space use using Resource Selection Functions, comparing model fit across a range of buffer radius
 - Quantifies home range size per individual/site and compares across the urbanization gradient
 - Models habitat associations (vegetation vertical structure, paved road density, proximity to bird feeders) against the best-supported scale at each site
 
