@@ -805,6 +805,7 @@ summary(avg_model)
 
 # compare marginal vs conditional
 r.squaredGLMM(noca_human_BDU, nullfx =noca_BDU_null_25)
+r.squaredGLMM(noca_BDU_full_25, nullfx =noca_BDU_null_25)
 
 #H-S GOF test 
 hoslem.test(rsf_data_BDU$Used, fitted(noca_BDU_full_25), g = 10)

@@ -19,6 +19,7 @@ library(ggsignif)
 library(purrr)
 library(multcomp)
 library(multcompView)
+library(ggbeeswarm)
 
 
 # =============================================================================================== #
@@ -583,27 +584,52 @@ y_limits[2] <- y_limits[2] + 1
 
 y_pos <- max(kde_95$log_area_km2, na.rm = TRUE) + 0.5
 
+# Core Home Range Plot (50%)
 p1 <- ggplot(kde_50, aes(x = Group, y = log_area_km2, fill = Group)) +
-  geom_boxplot(alpha = 0.6) +
-  geom_jitter(width = 0.15, alpha = 0.4, color = "black") +
+  geom_boxplot(alpha = 0.4, outlier.shape = NA) +
+  ggbeeswarm::geom_quasirandom(
+    aes(color = Group),
+    width = 0.25,
+    size = 2.5,
+    alpha = 0.8
+  ) +
   scale_fill_manual(values = site_colors) +
-  scale_x_discrete(labels = c("MBO\n(peri-urban)", "BDU\n(suburban)", "CON\n(dense urban)")) +
+  scale_color_manual(values = site_colors) +
+  scale_x_discrete(
+    labels = c(
+      "MBO\n(peri-urban)",
+      "BDU\n(suburban)",
+      "CON\n(dense urban)"
+    )
+  ) +
   coord_cartesian(ylim = y_limits) +
   labs(
     title = "Core home range size (KDE 50%)",
     y = "Log(area in km²)",
     x = "Site"
   ) +
-  base_theme
+  base_theme +
+  guides(color = "none")
 
 
-# Total Home Range Plot (95%) – show significant brackets only
-
+# Total Home Range Plot (95%)
 p2 <- ggplot(kde_95, aes(x = Group, y = log_area_km2, fill = Group)) +
-  geom_boxplot(alpha = 0.6) +
-  geom_jitter(width = 0.15, alpha = 0.4, color = "black") +
+  geom_boxplot(alpha = 0.4, outlier.shape = NA) +
+  ggbeeswarm::geom_quasirandom(
+    aes(color = Group),
+    width = 0.25,
+    size = 2.5,
+    alpha = 0.8
+  ) +
   scale_fill_manual(values = site_colors) +
-  scale_x_discrete(labels = c("MBO\n(peri-urban)", "BDU\n(suburban)", "CON\n(dense urban)")) +
+  scale_color_manual(values = site_colors) +
+  scale_x_discrete(
+    labels = c(
+      "MBO\n(peri-urban)",
+      "BDU\n(suburban)",
+      "CON\n(dense urban)"
+    )
+  ) +
   coord_cartesian(ylim = y_limits) +
   labs(
     title = "Total home range size (KDE 95%)",
@@ -611,13 +637,17 @@ p2 <- ggplot(kde_95, aes(x = Group, y = log_area_km2, fill = Group)) +
     x = "Site"
   ) +
   base_theme +
+  guides(color = "none") +
   geom_signif(
     comparisons = comparisons_95,
     annotations = rep("*", length(comparisons_95)),
-    y_position = seq(4.5, by = 0.6, length.out = length(comparisons_95)),
+    y_position = seq(
+      4.5,
+      by = 0.6,
+      length.out = length(comparisons_95)
+    ),
     tip_length = 0.02
   )
-
 
 # Combine plots
 
