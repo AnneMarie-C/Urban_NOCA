@@ -245,3 +245,64 @@ write.csv(fate_data, "fate_data.csv", row.names = FALSE)
 write.csv(bird_summary, "bird_summary.csv", row.names = FALSE)
 
 print("Analysis complete!")
+
+# ============================================================
+# 6. NEW ANALYSIS FOR SIGNIFICANT DIFFERENCE IN SURVIVAL
+# ============================================================
+# Load packages
+library(readxl)
+library(dplyr)
+library(lubridate)
+library(survival)
+library(survminer)
+
+# Import data
+survival_data <- read_excel("~/Uni/Urban_NOCA_repo/MSc_Project/NOCA_Winter_Habitat_Association/04_tables/Survival.xlsx")
+
+# Create contingency table for one-month tracking
+tracked_1_month <- cbind(
+  Tracked = survival_data$`1_month_tracked`,
+  Not_tracked = survival_data$Number_noca -
+    survival_data$`1_month_tracked`
+)
+
+rownames(tracked_1_month) <- survival_data$Site
+
+# Display the table
+tracked_1_month
+
+# Chi-square test
+chisq.test(tracked_1_month)
+
+# Check expected cell counts
+chisq.test(tracked_1_month)$expected
+
+# Create contingency table for three-month tracking
+tracked_3_months <- cbind(
+  Tracked = survival_data$`3_months_tracked`,
+  Not_tracked = survival_data$Number_noca -
+    survival_data$`3_months_tracked`
+)
+
+rownames(tracked_3_months) <- survival_data$Site
+
+# Display the table
+tracked_3_months
+
+# Chi-square test
+chisq.test(tracked_3_months)
+
+# Check expected cell counts
+chisq.test(tracked_3_months)$expected
+
+pairwise.prop.test(
+  x = survival_data$`1_month_tracked`,
+  n = survival_data$Number_noca,
+  p.adjust.method = "holm"
+)
+
+pairwise.prop.test(
+  x = survival_data$`3_months_tracked`,
+  n = survival_data$Number_noca,
+  p.adjust.method = "holm"
+)
